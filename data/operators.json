@@ -1,0 +1,2448 @@
+{
+  "STRIKER": {
+    "name": "Striker",
+    "side": "ATT",
+    "speed": 2,
+    "roles": [
+      "Support"
+    ],
+    "biography": {
+      "organization": "ROS"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.M4",
+        "LMG.M249",
+        "DMR.SR25"
+      ],
+      "secondaries": [
+        "SG.ITAS",
+        "HG.57"
+      ],
+      "gadgets": [
+        "BREACH",
+        "CLAYMORE",
+        "EMP",
+        "FRAG",
+        "HARDBREACH",
+        "SMOKE",
+        "STUN"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1",
+      "rework": "Y9S2"
+    }
+  },
+  "SENTRY": {
+    "name": "Sentry",
+    "side": "DEF",
+    "speed": 2,
+    "roles": [
+      "Support"
+    ],
+    "biography": {
+      "organization": "ROS"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.C9",
+        "SG.M870",
+        "SSG.TCSG"
+      ],
+      "secondaries": [
+        "MP.C75",
+        "SG.SHORTY"
+      ],
+      "gadgets": [
+        "BARBED",
+        "CAMERA",
+        "SHIELD",
+        "BLOCKER",
+        "IMPACT",
+        "C4",
+        "BEEPER"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1",
+      "rework": "Y9S2"
+    }
+  },
+  "SLEDGE": {
+    "name": "Sledge",
+    "side": "ATT",
+    "speed": 2,
+    "roles": [
+      "Breach",
+      "Anti-Gadget"
+    ],
+    "biography": {
+      "name": "Seamus Cowden",
+      "birthplace": "John O'Groats, Scotland, UK",
+      "organization": "SAS",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "ability": {
+        "name": "Breaching Hammer",
+        "features": {
+          "gadgetDamage": true,
+          "playerDamage": true
+        }
+      },
+      "primaries": [
+        "AR.L85",
+        "SG.M590"
+      ],
+      "secondaries": [
+        "MP.REAPER",
+        "HG.P226"
+      ],
+      "gadgets": [
+        "FRAG",
+        "STUN",
+        "EMP"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "THATCHER": {
+    "name": "Thatcher",
+    "side": "ATT",
+    "speed": 1,
+    "roles": [
+      "Anti-Gadget",
+      "Support"
+    ],
+    "biography": {
+      "name": "Mike Baker",
+      "birthplace": "Bideford, England, UK",
+      "organization": "SAS",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.L85",
+        "AR.AR33",
+        "SG.M590"
+      ],
+      "secondaries": [
+        "HG.P226"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "BREACH"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "SMOKE": {
+    "name": "Smoke",
+    "side": "DEF",
+    "speed": 2,
+    "roles": [
+      "Anti-Entry",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "James Porter",
+      "birthplace": "London, England, UK",
+      "organization": "SAS",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "SG.M590",
+        "SMG.FMG"
+      ],
+      "secondaries": [
+        "MP.SMG11",
+        "HG.P226"
+      ],
+      "gadgets": [
+        "BARBED",
+        "BEEPER"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "MUTE": {
+    "name": "Mute",
+    "side": "DEF",
+    "speed": 1,
+    "roles": [
+      "Anti-Gadget",
+      "Crowd Control"
+    ],
+    "biography": {
+      "name": "Mark R. Chandar",
+      "birthplace": "York, England, UK",
+      "organization": "SAS",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "SG.M590",
+        "SMG.MP5K"
+      ],
+      "secondaries": [
+        "MP.SMG11",
+        "HG.P226"
+      ],
+      "gadgets": [
+        "C4",
+        "CAMERA"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "ASH": {
+    "name": "Ash",
+    "side": "ATT",
+    "speed": 3,
+    "roles": [
+      "Breach",
+      "Frontline"
+    ],
+    "biography": {
+      "name": "Eliza Cohen",
+      "birthplace": "Jerusalem, Israel",
+      "organization": "FBI SWAT",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.R4C",
+        "AR.G36C"
+      ],
+      "secondaries": [
+        "HG.57",
+        "HG.M45"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "BREACH"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "THERMITE": {
+    "name": "Thermite",
+    "side": "ATT",
+    "speed": 2,
+    "roles": [
+      "Breach",
+      "Support"
+    ],
+    "biography": {
+      "name": "Jordan Trace",
+      "birthplace": "Plano, Texas, USA",
+      "organization": "FBI SWAT",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.556",
+        "SG.M1014"
+      ],
+      "secondaries": [
+        "HG.M45",
+        "HG.57"
+      ],
+      "gadgets": [
+        "SMOKE",
+        "STUN"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "CASTLE": {
+    "name": "Castle",
+    "side": "DEF",
+    "speed": 2,
+    "roles": [
+      "Anti-Entry",
+      "Support"
+    ],
+    "biography": {
+      "name": "Miles Campbell",
+      "birthplace": "Sherman Oaks, California, USA",
+      "organization": "FBI SWAT",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.UMP",
+        "SG.M1014"
+      ],
+      "secondaries": [
+        "SG.SHORTY",
+        "HG.57",
+        "HG.M45"
+      ],
+      "gadgets": [
+        "CAMERA",
+        "BEEPER"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "PULSE": {
+    "name": "Pulse",
+    "side": "DEF",
+    "speed": 3,
+    "roles": [
+      "Intel",
+      "Support"
+    ],
+    "biography": {
+      "name": "Jack Estrada",
+      "birthplace": "Goldsboro, North Carolina, USA",
+      "organization": "FBI SWAT",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.UMP",
+        "SG.M1014"
+      ],
+      "secondaries": [
+        "MP.REAPER",
+        "HG.57",
+        "HG.M45"
+      ],
+      "gadgets": [
+        "C4",
+        "SHIELD",
+        "BLOCKER"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "TWITCH": {
+    "name": "Twitch",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Anti-Gadget",
+      "Intel"
+    ],
+    "biography": {
+      "name": "Emmanuelle Pichon",
+      "birthplace": "Nancy, France",
+      "organization": "GIGN",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.F2",
+        "DMR.417",
+        "SG.SG"
+      ],
+      "secondaries": [
+        "HG.P9",
+        "REV.LFP"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "SMOKE"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "MONTAGNE": {
+    "name": "Montagne",
+    "speed": 1,
+    "side": "ATT",
+    "roles": [
+      "Intel",
+      "Support"
+    ],
+    "biography": {
+      "name": "Gilles Touré",
+      "birthplace": "Bordeaux, France",
+      "organization": "GIGN",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "shield": "SH.LEROC",
+      "secondaries": [
+        "HG.P9",
+        "REV.LFP"
+      ],
+      "gadgets": [
+        "EMP",
+        "SMOKE",
+        "HARDBREACH"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "DOC": {
+    "name": "Doc",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Support"
+    ],
+    "biography": {
+      "name": "Gustave Kateb",
+      "birthplace": "Paris, France",
+      "organization": "GIGN",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.P90",
+        "SMG.MP5",
+        "SG.SG"
+      ],
+      "secondaries": [
+        "REV.BAILIFF",
+        "REV.LFP",
+        "HG.P9"
+      ],
+      "gadgets": [
+        "CAMERA",
+        "BARBED"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "ROOK": {
+    "name": "Rook",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Support"
+    ],
+    "biography": {
+      "name": "Julien Nizan",
+      "birthplace": "Tours, France",
+      "organization": "GIGN",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.MP5",
+        "SMG.P90",
+        "SG.SG"
+      ],
+      "secondaries": [
+        "REV.LFP",
+        "HG.P9",
+        "MP.REAPER"
+      ],
+      "gadgets": [
+        "BEEPER",
+        "IMPACT",
+        "C4"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "GLAZ": {
+    "name": "Glaz",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Intel",
+      "Support"
+    ],
+    "biography": {
+      "name": "Timur Glazkov",
+      "birthplace": "Vladivostok, Russia",
+      "organization": "SPETSNAZ",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "SR.OT"
+      ],
+      "secondaries": [
+        "HG.PMM",
+        "MP.BEARING",
+        "HC.GONNE"
+      ],
+      "gadgets": [
+        "SMOKE",
+        "FRAG",
+        "CLAYMORE"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "FUZE": {
+    "name": "Fuze",
+    "speed": 1,
+    "side": "ATT",
+    "roles": [
+      "Anti-Gadget"
+    ],
+    "biography": {
+      "name": "Shuhrat Kessikbayev",
+      "birthplace": "Samarkand, Uzbekistan",
+      "organization": "SPETSNAZ",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "SH.BALLISTIC",
+        "AR.AK12",
+        "LMG.6P41"
+      ],
+      "secondaries": [
+        "HG.PMM",
+        "HG.GSH"
+      ],
+      "gadgets": [
+        "BREACH",
+        "HARDBREACH",
+        "SMOKE"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "KAPKAN": {
+    "name": "Kapkan",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "Maxim Basuda",
+      "birthplace": "Kovrov, Russia",
+      "organization": "SPETSNAZ",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.VSN",
+        "SG.SASG"
+      ],
+      "secondaries": [
+        "HG.GSH",
+        "HG.PMM"
+      ],
+      "gadgets": [
+        "CAMERA",
+        "BARBED"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "TACHANKA": {
+    "name": "Tachanka",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Crowd Control"
+    ],
+    "biography": {
+      "name": "Alexsandr Senaviev",
+      "birthplace": "Saint Petersburg, Russia",
+      "organization": "SPETSNAZ",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "LMG.DP27",
+        "SMG.VSN"
+      ],
+      "secondaries": [
+        "MP.BEARING",
+        "HG.PMM",
+        "HG.GSH"
+      ],
+      "gadgets": [
+        "BARBED",
+        "SHIELD",
+        "BEEPER"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1",
+      "rework": "Y5S3"
+    }
+  },
+  "BLITZ": {
+    "name": "Blitz",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Frontline",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Elias Kötz",
+      "birthplace": "Bremen, Germany",
+      "organization": "GSG 9",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "shield": "SH.G52",
+      "secondaries": [
+        "HG.P12"
+      ],
+      "gadgets": [
+        "SMOKE",
+        "BREACH"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "IQ": {
+    "name": "IQ",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Intel",
+      "Support"
+    ],
+    "biography": {
+      "name": "Monika Weiss",
+      "birthplace": "Leipzig, Germany",
+      "organization": "GSG 9",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "LMG.G8",
+        "AR.552",
+        "AR.AUG"
+      ],
+      "secondaries": [
+        "HG.P12"
+      ],
+      "gadgets": [
+        "FRAG",
+        "CLAYMORE",
+        "BREACH"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "JAGER": {
+    "name": "Jäger",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Gadget",
+      "Support"
+    ],
+    "biography": {
+      "name": "Marius Streicher",
+      "birthplace": "Düsseldorf, Germany",
+      "organization": "GSG 9",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.416C",
+        "SG.M870"
+      ],
+      "secondaries": [
+        "HG.P12"
+      ],
+      "gadgets": [
+        "CAMERA",
+        "BLOCKER"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "BANDIT": {
+    "name": "Bandit",
+    "speed": 3,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Anti-Gadget"
+    ],
+    "biography": {
+      "name": "Dominic Brunsmeier",
+      "birthplace": "Berlin, Germany",
+      "organization": "GSG 9",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.MP7",
+        "SG.M870"
+      ],
+      "secondaries": [
+        "HG.P12"
+      ],
+      "gadgets": [
+        "BARBED",
+        "C4"
+      ]
+    },
+    "metadata": {
+      "release": "Y0S1"
+    }
+  },
+  "BUCK": {
+    "name": "Buck",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Breach",
+      "Support"
+    ],
+    "biography": {
+      "name": "Sebastien Côté",
+      "birthplace": "Montréal, Quebec, Canada",
+      "organization": "JTF2",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.C8",
+        "DMR.CAMRS"
+      ],
+      "secondaries": [
+        "HG.MK1"
+      ],
+      "gadgets": [
+        "STUN",
+        "CLAYMORE"
+      ]
+    },
+    "metadata": {
+      "release": "Y1S1"
+    }
+  },
+  "FROST": {
+    "name": "Frost",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "Tina Lin Tsang",
+      "birthplace": "Vancouver, British Columbia, Canada",
+      "organization": "JTF2",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.C1",
+        "SG.S90"
+      ],
+      "secondaries": [
+        "SG.ITAS",
+        "HG.MK1"
+      ],
+      "gadgets": [
+        "SHIELD",
+        "CAMERA"
+      ]
+    },
+    "metadata": {
+      "release": "Y1S1"
+    }
+  },
+  "BLACKBEARD": {
+    "name": "Blackbeard",
+    "speed": 1,
+    "side": "ATT",
+    "roles": [
+      "Breach",
+      "Frontline"
+    ],
+    "biography": {
+      "name": "Craig Jenson",
+      "birthplace": "Bellevue, Washington, USA",
+      "organization": "Navy SEAL",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "shield": "SH.HULL",
+      "primaries": [
+        "AR.MK17",
+        "DMR.SR25"
+      ],
+      "gadgets": [
+        "FRAG",
+        "CLAYMORE"
+      ]
+    },
+    "metadata": {
+      "release": "Y1S2",
+      "rework": "Y9S4"
+    }
+  },
+  "VALKYRIE": {
+    "name": "Valkyrie",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Intel",
+      "Support"
+    ],
+    "biography": {
+      "name": "Meghan J. Castellano",
+      "birthplace": "Oceanside, California, USA",
+      "organization": "Navy SEAL",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.MPX",
+        "SG.SPAS12"
+      ],
+      "secondaries": [
+        "HG.D50"
+      ],
+      "gadgets": [
+        "IMPACT",
+        "C4"
+      ]
+    },
+    "metadata": {
+      "release": "Y1S2"
+    }
+  },
+  "CAPITAO": {
+    "name": "Capitão",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Frontline",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Vicente Souza",
+      "birthplace": "Nova Iguaçu, Brazil",
+      "organization": "BOPE",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.PARA",
+        "LMG.M249"
+      ],
+      "secondaries": [
+        "HG.PRB",
+        "HC.GONNE"
+      ],
+      "gadgets": [
+        "HARDBREACH",
+        "EMP",
+        "CLAYMORE"
+      ]
+    },
+    "metadata": {
+      "release": "Y1S3"
+    }
+  },
+  "CAVEIRA": {
+    "name": "Caveira",
+    "speed": 3,
+    "side": "DEF",
+    "roles": [
+      "Intel",
+      "Crowd Control"
+    ],
+    "biography": {
+      "name": "Taina Pereira",
+      "birthplace": "Rinópolis, Brazil",
+      "organization": "BOPE",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.M12",
+        "SG.SPAS15"
+      ],
+      "secondaries": [
+        "HG.LUISON"
+      ],
+      "gadgets": [
+        "IMPACT",
+        "BEEPER",
+        "BLOCKER"
+      ]
+    },
+    "metadata": {
+      "release": "Y1S3"
+    }
+  },
+  "HIBANA": {
+    "name": "Hibana",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Breach",
+      "Frontline"
+    ],
+    "biography": {
+      "name": "Yumiko Imagawa",
+      "birthplace": "Nagoya, Japan",
+      "organization": "SAT",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.T89",
+        "SG.SUPERNOVA"
+      ],
+      "secondaries": [
+        "MP.BEARING",
+        "HG.P229"
+      ],
+      "gadgets": [
+        "BREACH",
+        "STUN"
+      ]
+    },
+    "metadata": {
+      "release": "Y1S4"
+    }
+  },
+  "ECHO": {
+    "name": "Echo",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Intel",
+      "Crowd Control"
+    ],
+    "biography": {
+      "name": "Masaru Enatsu",
+      "birthplace": "Tokyo, Japan",
+      "organization": "SAT",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.MP5SD",
+        "SG.SUPERNOVA"
+      ],
+      "secondaries": [
+        "HG.P229",
+        "MP.BEARING"
+      ],
+      "gadgets": [
+        "SHIELD",
+        "IMPACT"
+      ]
+    },
+    "metadata": {
+      "release": "Y1S4"
+    }
+  },
+  "JACKAL": {
+    "name": "Jackal",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Intel",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Ryad Ramírez Al-Hassar",
+      "birthplace": "Ceuta, Spain",
+      "organization": "GEO",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.C7E",
+        "SMG.PDW9",
+        "SG.ITAL"
+      ],
+      "secondaries": [
+        "SG.ITAS",
+        "HG.USP"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "SMOKE"
+      ]
+    },
+    "metadata": {
+      "release": "Y2S1"
+    }
+  },
+  "MIRA": {
+    "name": "Mira",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Intel",
+      "Support"
+    ],
+    "biography": {
+      "name": "Elena María Álvarez",
+      "birthplace": "Madrid, Spain",
+      "organization": "GEO",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.VECTOR",
+        "SG.ITAL"
+      ],
+      "secondaries": [
+        "SG.ITAS",
+        "HG.USP"
+      ],
+      "gadgets": [
+        "C4",
+        "BEEPER"
+      ]
+    },
+    "metadata": {
+      "release": "Y2S1"
+    }
+  },
+  "YING": {
+    "name": "Ying",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Frontline",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Siu Mei Lin",
+      "birthplace": "Central District, Hong Kong",
+      "organization": "SDU",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "LMG.T95",
+        "SG.SIX"
+      ],
+      "secondaries": [
+        "HG.Q929",
+        "MP.REAPER"
+      ],
+      "gadgets": [
+        "HARDBREACH",
+        "SMOKE"
+      ]
+    },
+    "metadata": {
+      "release": "Y2S3"
+    }
+  },
+  "LESION": {
+    "name": "Lesion",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "Liu Tze Long",
+      "birthplace": "Junk Bay, Hong Kong",
+      "organization": "SDU",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.T5",
+        "SG.SIXSD"
+      ],
+      "secondaries": [
+        "HG.Q929"
+      ],
+      "gadgets": [
+        "BLOCKER",
+        "CAMERA"
+      ]
+    },
+    "metadata": {
+      "release": "Y2S3"
+    }
+  },
+  "ELA": {
+    "name": "Ela",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Crowd Control",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "Elżbieta Bosak",
+      "birthplace": "Wrocław, Poland",
+      "organization": "GROM",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.SCORPION",
+        "SG.FO12"
+      ],
+      "secondaries": [
+        "HG.RG15"
+      ],
+      "gadgets": [
+        "SHIELD",
+        "IMPACT",
+        "BARBED"
+      ]
+    },
+    "metadata": {
+      "release": "Y2S3"
+    }
+  },
+  "ZOFIA": {
+    "name": "Zofia",
+    "speed": 1,
+    "side": "ATT",
+    "roles": [
+      "Breach",
+      "Anti-Gadget"
+    ],
+    "biography": {
+      "name": "Zofia Bosak",
+      "birthplace": "Wrocław, Poland",
+      "organization": "GROM",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.M762",
+        "LMG.LMG"
+      ],
+      "secondaries": [
+        "HG.RG15"
+      ],
+      "gadgets": [
+        "HARDBREACH",
+        "CLAYMORE"
+      ]
+    },
+    "metadata": {
+      "release": "Y2S4"
+    }
+  },
+  "DOKKAEBI": {
+    "name": "Dokkaebi",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Intel",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Grace Nam",
+      "birthplace": "Seoul, South Korea",
+      "organization": "707th SMB",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "DMR.MK14",
+        "SSG.BOSG"
+      ],
+      "secondaries": [
+        "MP.SMG12",
+        "MP.C75",
+        "HC.GONNE"
+      ],
+      "gadgets": [
+        "SMOKE",
+        "EMP",
+        "STUN"
+      ]
+    },
+    "metadata": {
+      "release": "Y2S4"
+    }
+  },
+  "VIGIL": {
+    "name": "Vigil",
+    "speed": 3,
+    "side": "DEF",
+    "roles": [
+      "Anti-Gadget",
+      "Crowd Control"
+    ],
+    "biography": {
+      "name": "Chul Kyung Hwa",
+      "birthplace": "[REDACTED]",
+      "organization": "707th SMB",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.K1A",
+        "SSG.BOSG"
+      ],
+      "secondaries": [
+        "MP.C75",
+        "MP.SMG12"
+      ],
+      "gadgets": [
+        "IMPACT",
+        "CAMERA"
+      ]
+    },
+    "metadata": {
+      "release": "Y2S4"
+    }
+  },
+  "LION": {
+    "name": "Lion",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Intel",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Olivier Flament",
+      "birthplace": "Toulouse, France",
+      "organization": "CBRN Threat Unit",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.V308",
+        "DMR.417",
+        "SG.SG"
+      ],
+      "secondaries": [
+        "HG.P9",
+        "REV.LFP"
+      ],
+      "gadgets": [
+        "FRAG",
+        "STUN",
+        "CLAYMORE"
+      ]
+    },
+    "metadata": {
+      "release": "Y3S1"
+    }
+  },
+  "FINKA": {
+    "name": "Finka",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Frontline",
+      "Support"
+    ],
+    "biography": {
+      "name": "Lera Melnikova",
+      "birthplace": "Gomel, Belarus",
+      "organization": "CBRN Threat Unit",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.SPEAR",
+        "LMG.6P41",
+        "SG.SASG"
+      ],
+      "secondaries": [
+        "HG.PMM",
+        "HG.GSH"
+      ],
+      "gadgets": [
+        "FRAG",
+        "SMOKE",
+        "STUN"
+      ]
+    },
+    "metadata": {
+      "release": "Y3S1"
+    }
+  },
+  "MAESTRO": {
+    "name": "Maestro",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Anti-Gadget",
+      "Intel"
+    ],
+    "biography": {
+      "name": "Adriano Martello",
+      "birthplace": "Rome, Italy",
+      "organization": "GIS",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "LMG.ALDA",
+        "SSG.ACS"
+      ],
+      "secondaries": [
+        "REV.BAILIFF",
+        "REV.KERATOS"
+      ],
+      "gadgets": [
+        "BARBED",
+        "IMPACT",
+        "BLOCKER"
+      ]
+    },
+    "metadata": {
+      "release": "Y3S2"
+    }
+  },
+  "ALIBI": {
+    "name": "Alibi",
+    "speed": 3,
+    "side": "DEF",
+    "roles": [
+      "Intel",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "Aria de Luca",
+      "birthplace": "Tripoli, Libya",
+      "organization": "GIS",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.MX4",
+        "SSG.ACS"
+      ],
+      "secondaries": [
+        "REV.BAILIFF",
+        "REV.KERATOS"
+      ],
+      "gadgets": [
+        "BEEPER",
+        "BLOCKER"
+      ]
+    },
+    "metadata": {
+      "release": "Y3S2"
+    }
+  },
+  "MAVERICK": {
+    "name": "Maverick",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Breach",
+      "Frontline"
+    ],
+    "biography": {
+      "name": "Erik Thorn",
+      "birthplace": "Boston, Massachusetts, USA",
+      "organization": "GSUTR",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.M4",
+        "DMR.AR15"
+      ],
+      "secondaries": [
+        "HG.1911"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "STUN",
+        "SMOKE"
+      ]
+    },
+    "metadata": {
+      "release": "Y3S3"
+    }
+  },
+  "CLASH": {
+    "name": "Clash",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Intel",
+      "Crowd Control"
+    ],
+    "biography": {
+      "name": "Morowa Evans",
+      "birthplace": "London, England, UK",
+      "organization": "GSUTR",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "shield": "SH.CCE",
+      "secondaries": [
+        "MP.SPS",
+        "SG.SHORTY",
+        "HG.P10"
+      ],
+      "gadgets": [
+        "BARBED",
+        "IMPACT"
+      ]
+    },
+    "metadata": {
+      "release": "Y3S3",
+      "rework": "Y10S2"
+    }
+  },
+  "NOMAD": {
+    "name": "Nomad",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Frontline",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Sanaa El Maktoub",
+      "birthplace": "Marrakesh, Morocco",
+      "organization": "GIGR",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.AK74",
+        "AR.ARX"
+      ],
+      "secondaries": [
+        "HG.PRB",
+        "HG.44"
+      ],
+      "gadgets": [
+        "BREACH",
+        "STUN"
+      ]
+    },
+    "metadata": {
+      "release": "Y3S4"
+    }
+  },
+  "KAID": {
+    "name": "Kaid",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Anti-Gadget"
+    ],
+    "biography": {
+      "name": "Jalal El Fassi",
+      "birthplace": "Aroumd, Morocco",
+      "organization": "GIGR",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.AUG",
+        "SSG.TCSG"
+      ],
+      "secondaries": [
+        "REV.LFP",
+        "HG.44"
+      ],
+      "gadgets": [
+        "BARBED",
+        "BLOCKER",
+        "C4"
+      ]
+    },
+    "metadata": {
+      "release": "Y3S4"
+    }
+  },
+  "GRIDLOCK": {
+    "name": "Gridlock",
+    "speed": 1,
+    "side": "ATT",
+    "roles": [
+      "Support",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Tori Tallyo Fairous",
+      "birthplace": "Longreach, Queensland, Australia",
+      "organization": "SASR",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.F90",
+        "LMG.M249S"
+      ],
+      "secondaries": [
+        "SG.SHORTY",
+        "HG.SDP"
+      ],
+      "gadgets": [
+        "SMOKE",
+        "FRAG",
+        "EMP"
+      ]
+    },
+    "metadata": {
+      "release": "Y4S1"
+    }
+  },
+  "MOZZIE": {
+    "name": "Mozzie",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Gadget",
+      "Intel"
+    ],
+    "biography": {
+      "name": "Max Goose",
+      "birthplace": "Portland, Australia",
+      "organization": "SASR",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.C9",
+        "SMG.P10"
+      ],
+      "secondaries": [
+        "HG.SDP"
+      ],
+      "gadgets": [
+        "BARBED",
+        "C4",
+        "IMPACT"
+      ]
+    },
+    "metadata": {
+      "release": "Y4S1"
+    }
+  },
+  "NOKK": {
+    "name": "Nøkk",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Frontline",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "[REDACTED]",
+      "birthplace": "[REDACTED]",
+      "organization": "Jæger Corps",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.FMG",
+        "SG.SIXSD"
+      ],
+      "secondaries": [
+        "HG.57",
+        "HG.D50"
+      ],
+      "gadgets": [
+        "EMP",
+        "HARDBREACH",
+        "FRAG"
+      ]
+    },
+    "metadata": {
+      "release": "Y4S2"
+    }
+  },
+  "WARDEN": {
+    "name": "Warden",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Anti-Gadget",
+      "Intel"
+    ],
+    "biography": {
+      "name": "Collinn McKinley",
+      "birthplace": "Louisville, Kentucky, USA",
+      "organization": "Secret Service",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "SG.M590",
+        "SMG.MPX"
+      ],
+      "secondaries": [
+        "MP.SMG12",
+        "HG.P10"
+      ],
+      "gadgets": [
+        "SHIELD",
+        "C4",
+        "BLOCKER"
+      ]
+    },
+    "metadata": {
+      "release": "Y4S2"
+    }
+  },
+  "AMARU": {
+    "name": "Amaru",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Frontline",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Azucena Rocío Quispe",
+      "birthplace": "Cojata, Peru",
+      "organization": "APCA",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "LMG.G8",
+        "SG.SUPERNOVA"
+      ],
+      "secondaries": [
+        "SG.ITAS",
+        "MP.SMG11",
+        "HC.GONNE"
+      ],
+      "gadgets": [
+        "STUN",
+        "HARDBREACH"
+      ]
+    },
+    "metadata": {
+      "release": "Y4S3"
+    }
+  },
+  "GOYO": {
+    "name": "Goyo",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "César Ruiz Hernández",
+      "birthplace": "Culiacán Rosales, Mexico",
+      "organization": "Fuerzas Especiales",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.VECTOR",
+        "SSG.TCSG"
+      ],
+      "secondaries": [
+        "HG.P229"
+      ],
+      "gadgets": [
+        "IMPACT",
+        "BEEPER",
+        "CAMERA"
+      ]
+    },
+    "metadata": {
+      "release": "Y4S3"
+    }
+  },
+  "KALI": {
+    "name": "Kali",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Anti-Gadget",
+      "Support"
+    ],
+    "biography": {
+      "name": "Jaimini Kalimohan Shah",
+      "birthplace": "Amreli, India",
+      "organization": "Nighthaven",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "SR.CSRX"
+      ],
+      "secondaries": [
+        "MP.SPS",
+        "MP.C75",
+        "HG.P226"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "BREACH",
+        "SMOKE"
+      ]
+    },
+    "metadata": {
+      "release": "Y4S4"
+    }
+  },
+  "WAMAI": {
+    "name": "Wamai",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Gadget",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "Ngũgĩ Muchoki Furaha",
+      "birthplace": "Lamu, Kenya",
+      "organization": "Nighthaven",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.AUG",
+        "SMG.MP5K"
+      ],
+      "secondaries": [
+        "REV.KERATOS",
+        "HG.P12",
+        "SG.SHORTY"
+      ],
+      "gadgets": [
+        "IMPACT",
+        "BEEPER"
+      ]
+    },
+    "metadata": {
+      "release": "Y4S4"
+    }
+  },
+  "IANA": {
+    "name": "Iana",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Frontline",
+      "Intel"
+    ],
+    "biography": {
+      "name": "Nienke Meijer",
+      "birthplace": "Katwijk, Netherlands",
+      "organization": "REU",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.G36C",
+        "AR.ARX"
+      ],
+      "secondaries": [
+        "HG.MK1",
+        "HC.GONNE"
+      ],
+      "gadgets": [
+        "EMP",
+        "SMOKE"
+      ]
+    },
+    "metadata": {
+      "release": "Y5S1"
+    }
+  },
+  "ORYX": {
+    "name": "Oryx",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Support"
+    ],
+    "biography": {
+      "name": "Saif al Hadid",
+      "birthplace": "Azraq, Jordan",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.T5",
+        "SG.SPAS12"
+      ],
+      "secondaries": [
+        "HG.USP",
+        "REV.BAILIFF",
+        "MP.REAPER"
+      ],
+      "gadgets": [
+        "BARBED",
+        "BEEPER"
+      ]
+    },
+    "metadata": {
+      "release": "Y5S1"
+    }
+  },
+  "ACE": {
+    "name": "Ace",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Breach",
+      "Anti-Gadget"
+    ],
+    "biography": {
+      "name": "Håvard Haugland",
+      "birthplace": "Lærdalsøyri, Norway",
+      "organization": "Nighthaven",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.AK12",
+        "SG.M1014"
+      ],
+      "secondaries": [
+        "HG.P9"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "BREACH"
+      ]
+    },
+    "metadata": {
+      "release": "Y5S2"
+    }
+  },
+  "MELUSI": {
+    "name": "Melusi",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Intel",
+      "Crowd Control"
+    ],
+    "biography": {
+      "name": "Thandiwe Ndlovu",
+      "birthplace": "Louwsburg, South Africa",
+      "organization": "Inkaba Task Force",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.MP5",
+        "SG.S90"
+      ],
+      "secondaries": [
+        "SG.ITAS",
+        "HG.RG15"
+      ],
+      "gadgets": [
+        "CAMERA",
+        "IMPACT"
+      ]
+    },
+    "metadata": {
+      "release": "Y5S2"
+    }
+  },
+  "ZERO": {
+    "name": "Zero",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Anti-Gadget",
+      "Intel"
+    ],
+    "biography": {
+      "name": "Samuel Leo Fisher",
+      "birthplace": "Baltimore, Maryland, USA",
+      "organization": "ROS",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.SC3000",
+        "SMG.MP7"
+      ],
+      "secondaries": [
+        "HG.57",
+        "HC.GONNE"
+      ],
+      "gadgets": [
+        "HARDBREACH",
+        "CLAYMORE"
+      ]
+    },
+    "metadata": {
+      "release": "Y5S3"
+    }
+  },
+  "ARUNI": {
+    "name": "Aruni",
+    "speed": 1,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Anti-Gadget"
+    ],
+    "biography": {
+      "name": "Apha Tawanroong",
+      "birthplace": "Ta Phraya District, Thailand",
+      "organization": "Nighthaven",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.P10",
+        "DMR.MK14"
+      ],
+      "secondaries": [
+        "HG.PRB"
+      ],
+      "gadgets": [
+        "BARBED",
+        "CAMERA"
+      ]
+    },
+    "metadata": {
+      "release": "Y5S4"
+    }
+  },
+  "FLORES": {
+    "name": "Flores",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Anti-Gadget",
+      "Intel"
+    ],
+    "biography": {
+      "name": "Santiago Miguel Lucero",
+      "birthplace": "Buenos Aires, Argentina",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.AR33",
+        "DMR.SR25"
+      ],
+      "secondaries": [
+        "HG.GSH"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "STUN"
+      ]
+    },
+    "metadata": {
+      "release": "Y6S1"
+    }
+  },
+  "THUNDERBIRD": {
+    "name": "Thunderbird",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Support"
+    ],
+    "biography": {
+      "name": "Mina Sky",
+      "birthplace": "Nakoda Territories",
+      "organization": "Star-Net Aviation",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.SPEAR",
+        "SG.SPAS15"
+      ],
+      "secondaries": [
+        "MP.BEARING",
+        "SG.ITAS",
+        "HG.Q929"
+      ],
+      "gadgets": [
+        "SHIELD",
+        "BARBED",
+        "CAMERA"
+      ]
+    },
+    "metadata": {
+      "release": "Y6S2"
+    }
+  },
+  "OSA": {
+    "name": "Osa",
+    "speed": 1,
+    "side": "ATT",
+    "roles": [
+      "Intel",
+      "Support"
+    ],
+    "biography": {
+      "name": "Anja Katarina Janković",
+      "birthplace": "Split, Croatia",
+      "organization": "Nighthaven",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.556",
+        "SMG.PDW9"
+      ],
+      "secondaries": [
+        "HG.PMM"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "FRAG",
+        "EMP"
+      ]
+    },
+    "metadata": {
+      "release": "Y6S3"
+    }
+  },
+  "THORN": {
+    "name": "Thorn",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "Brianna Skehan",
+      "birthplace": "County Kildare, Ireland",
+      "organization": "Emergency Response Unit",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.UZK",
+        "SG.M870"
+      ],
+      "secondaries": [
+        "MP.C75",
+        "HG.1911"
+      ],
+      "gadgets": [
+        "SHIELD",
+        "BARBED"
+      ]
+    },
+    "metadata": {
+      "release": "Y6S4"
+    }
+  },
+  "AZAMI": {
+    "name": "Azami",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Support"
+    ],
+    "biography": {
+      "name": "Kana Fujiwara",
+      "birthplace": "Kyoto, Japan",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.VSN",
+        "SSG.ACS"
+      ],
+      "secondaries": [
+        "HG.D50"
+      ],
+      "gadgets": [
+        "BARBED",
+        "IMPACT"
+      ]
+    },
+    "metadata": {
+      "release": "Y7S1"
+    }
+  },
+  "SENS": {
+    "name": "Sens",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Support",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Néon Ngoma Mutombo",
+      "birthplace": "Brussels, Belgium",
+      "organization": "SFG",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.POF",
+        "DMR.417"
+      ],
+      "secondaries": [
+        "HG.SDP"
+      ],
+      "gadgets": [
+        "FRAG",
+        "HARDBREACH",
+        "CLAYMORE"
+      ]
+    },
+    "metadata": {
+      "release": "Y7S2"
+    }
+  },
+  "GRIM": {
+    "name": "Grim",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Frontline",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Charlie Tho Keng Boon",
+      "birthplace": "Jurong, Singapore",
+      "organization": "Nighthaven",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.552",
+        "SG.SG"
+      ],
+      "secondaries": [
+        "REV.BAILIFF",
+        "HG.P229"
+      ],
+      "gadgets": [
+        "HARDBREACH",
+        "EMP",
+        "CLAYMORE"
+      ]
+    },
+    "metadata": {
+      "release": "Y7S3"
+    }
+  },
+  "SOLIS": {
+    "name": "Solis",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Intel",
+      "Support"
+    ],
+    "biography": {
+      "name": "Ana Valentina Díaz",
+      "birthplace": "Zipaquirá, Colombia",
+      "organization": "AFEAU",
+      "squad": "Ghosteyes"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.P90",
+        "SG.ITAL"
+      ],
+      "secondaries": [
+        "MP.SMG11"
+      ],
+      "gadgets": [
+        "BEEPER",
+        "CAMERA"
+      ]
+    },
+    "metadata": {
+      "release": "Y7S4"
+    }
+  },
+  "BRAVA": {
+    "name": "Brava",
+    "speed": 3,
+    "side": "ATT",
+    "roles": [
+      "Anti-Gadget",
+      "Intel"
+    ],
+    "biography": {
+      "name": "Nayara Cardoso",
+      "birthplace": "Curitiba, Brazil",
+      "organization": "COT",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.PARA",
+        "DMR.CAMRS"
+      ],
+      "secondaries": [
+        "SG.SHORTY",
+        "HG.USP"
+      ],
+      "gadgets": [
+        "CLAYMORE",
+        "SMOKE"
+      ]
+    },
+    "metadata": {
+      "release": "Y8S1"
+    }
+  },
+  "FENRIR": {
+    "name": "Fenrir",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Crowd Control",
+      "Trapper"
+    ],
+    "biography": {
+      "name": "Emil Svensson",
+      "birthplace": "Uppsala, Sweden",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.MP7",
+        "SG.SASG"
+      ],
+      "secondaries": [
+        "HG.57"
+      ],
+      "gadgets": [
+        "CAMERA",
+        "BLOCKER"
+      ]
+    },
+    "metadata": {
+      "release": "Y8S2"
+    }
+  },
+  "RAM": {
+    "name": "Ram",
+    "speed": 1,
+    "side": "ATT",
+    "roles": [
+      "Breach",
+      "Anti-Gadget"
+    ],
+    "biography": {
+      "name": "Bo-Ram Choi",
+      "birthplace": "Busan, South Korea",
+      "organization": "35th Commando Battalion",
+      "squad": "Redhammer"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.R4C",
+        "LMG.LMG"
+      ],
+      "secondaries": [
+        "HG.MK1"
+      ],
+      "gadgets": [
+        "STUN",
+        "SMOKE"
+      ]
+    },
+    "metadata": {
+      "release": "Y8S3"
+    }
+  },
+  "TUBARAO": {
+    "name": "Tubarão",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Anti-Gadget",
+      "Crowd Control"
+    ],
+    "biography": {
+      "name": "Isaac Nunes Oliveira",
+      "birthplace": "Ponta Delgada, Portugal",
+      "organization": "DAE",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.MPX",
+        "DMR.AR15"
+      ],
+      "secondaries": [
+        "HG.P226"
+      ],
+      "gadgets": [
+        "C4",
+        "BEEPER"
+      ]
+    },
+    "metadata": {
+      "release": "Y8S4"
+    }
+  },
+  "DEIMOS": {
+    "name": "Deimos",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Intel",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Gerald Morris",
+      "birthplace": "Birmingham, Alabama, USA",
+      "organization": "KERES Legion"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.AK74",
+        "SG.M590"
+      ],
+      "secondaries": [
+        "REV.VENDETTA"
+      ],
+      "gadgets": [
+        "FRAG",
+        "HARDBREACH"
+      ]
+    },
+    "metadata": {
+      "release": "Y9S1"
+    }
+  },
+  "SKOPOS": {
+    "name": "Skopós",
+    "speed": 2,
+    "side": "DEF",
+    "roles": [
+      "Intel",
+      "Support"
+    ],
+    "biography": {
+      "name": "Kure Galanos",
+      "birthplace": "Nicosia, Cyprus",
+      "organization": "EKAM",
+      "squad": "Wolfguard"
+    },
+    "loadout": {
+      "primaries": [
+        "AR.PCX"
+      ],
+      "secondaries": [
+        "HG.P229"
+      ],
+      "gadgets": [
+        "IMPACT",
+        "BEEPER"
+      ]
+    },
+    "metadata": {
+      "release": "Y9S3"
+    }
+  },
+  "RAUORA": {
+    "name": "Rauora",
+    "speed": 2,
+    "side": "ATT",
+    "roles": [
+      "Support",
+      "Map Control"
+    ],
+    "biography": {
+      "name": "Hāpai Iwini",
+      "birthplace": "Christchurch, New Zealand",
+      "organization": "NZSAS",
+      "squad": "Viperstrike"
+    },
+    "loadout": {
+      "primaries": [
+        "DMR.417",
+        "LMG.M249"
+      ],
+      "secondaries": [
+        "MP.REAPER",
+        "HG.GSH"
+      ],
+      "gadgets": [
+        "SMOKE",
+        "BREACH"
+      ]
+    },
+    "metadata": {
+      "release": "Y10S1"
+    }
+  },
+  "DENARI": {
+    "name": "Denari",
+    "speed": 3,
+    "side": "DEF",
+    "roles": [
+      "Anti-Entry",
+      "Crowd Control"
+    ],
+    "biography": {
+      "name": "Leon Winzenried",
+      "birthplace": "Lugano, Switzerland",
+      "organization": "Nighthaven",
+      "squad": "Nighthaven"
+    },
+    "loadout": {
+      "primaries": [
+        "SMG.SCORPION",
+        "SMG.FMG"
+      ],
+      "secondaries": [
+        "SSG.GLAIVE",
+        "HG.P226"
+      ],
+      "gadgets": [
+        "BLOCKER",
+        "SHIELD"
+      ]
+    },
+    "metadata": {
+      "release": "Y10S3"
+    }
+  }
+}
