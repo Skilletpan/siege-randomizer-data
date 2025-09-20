@@ -1,0 +1,141 @@
+{
+  "AR": {
+    "416C": "416-C Carbine",
+    "552": "552 Commando",
+    "556": "556XI",
+    "AK12": "AK-12",
+    "AK74": "AK-74M",
+    "AR33": "AR33",
+    "ARX": "ARX200",
+    "AUG": "AUG A2",
+    "C7E": "C7E",
+    "C8": "C8-SFW",
+    "C9": "Commando 9",
+    "F2": "F2",
+    "F90": "F90",
+    "G36C": "G36C",
+    "L85": "L85A2",
+    "M4": "M4",
+    "M762": "M762",
+    "MK17": "MK17 CQB",
+    "PARA": "PARA-308",
+    "PCX": "PCX-33",
+    "POF": "POF-9",
+    "R4C": "R4-C",
+    "SC3000": "SC3000K",
+    "SPEAR": "Spear .308",
+    "T89": "Type-89",
+    "V308": "V308"
+  },
+  "DMR": {
+    "417": "417",
+    "AR15": "AR-15.50",
+    "CAMRS": "CAMRS",
+    "MK14": "Mk 14 EBR",
+    "SR25": "SR-25"
+  },
+  "HC": {
+    "GONNE": "Gonne-6"
+  },
+  "HG": {
+    "1911": "1911 TACOPS",
+    "44": ".44 Mag Semi-Auto",
+    "57": "5.7 USG",
+    "D50": "D-50",
+    "GSH": "GSH-18",
+    "LUISON": "Luison",
+    "M45": "M45 MEUSOC",
+    "MK1": "MK1 9mm",
+    "P10": "P-10C",
+    "P12": "P12",
+    "P226": "P226 MK 25",
+    "P229": "P229",
+    "P9": "P9",
+    "PMM": "PMM",
+    "PRB": "PRB92",
+    "Q929": "Q-929",
+    "RG15": "RG15",
+    "SDP": "SDP 9mm",
+    "USP": "USP40"
+  },
+  "LMG": {
+    "6P41": "6P41",
+    "ALDA": "ALDA 5.56",
+    "DP27": "DP27",
+    "G8": "G8A1",
+    "LMG": "LMG-E",
+    "M249": "M249",
+    "M249S": "M249 SAW",
+    "T95": "T-95 LSW"
+  },
+  "MP": {
+    "BEARING": "Bearing 9",
+    "C75": "C75 Auto",
+    "REAPER": "Reaper MK2",
+    "SMG11": "SMG-11",
+    "SMG12": "SMG-12",
+    "SPS": "SPSMG9"
+  },
+  "REV": {
+    "BAILIFF": "Bailiff 410",
+    "KERATOS": "Keratos .357",
+    "LFP": "LFP586",
+    "VENDETTA": ".44 Vendetta"
+  },
+  "SG": {
+    "FO12": "FO-12",
+    "ITAL": "ITA12L",
+    "ITAS": "ITA12S",
+    "M1014": "M1014",
+    "M590": "M590A1",
+    "M870": "M870",
+    "S90": "Super 90",
+    "SASG": "SASG-12",
+    "SG": "SG-CQB",
+    "SHORTY": "Super Shorty",
+    "SIX": "SIX12",
+    "SIXSD": "SIX12 SD",
+    "SPAS12": "SPAS-12",
+    "SPAS15": "SPAS-15",
+    "SUPERNOVA": "Supernova"
+  },
+  "SH": {
+    "BALLISTIC": "Ballistic Shield",
+    "CCE": "CCE Shield MK2",
+    "G52": "G52-Tactical Shield",
+    "HULL": "H.U.L.L. Adaptable Shield",
+    "LEROC": "Le Roc Shield"
+  },
+  "SMG": {
+    "AUG": "AUG A3",
+    "C1": "9mm C1",
+    "FMG": "FMG-9",
+    "K1A": "K1A",
+    "M12": "M12",
+    "MP5": "MP5",
+    "MP5K": "MP5K",
+    "MP5SD": "MP5SD",
+    "MP7": "MP7",
+    "MPX": "MPX",
+    "MX4": "Mx4 Storm",
+    "P10": "P10 Roni",
+    "P90": "P90",
+    "PDW9": "PDW9",
+    "SCORPION": "Scorpion EVO 3 A1",
+    "T5": "T-5 SMG",
+    "UMP": "UMP45",
+    "UZK": "UZK50GI",
+    "VECTOR": "Vector .45 ACP",
+    "VSN": "9x19VSN"
+  },
+  "SR": {
+    "CSRX": "CSRX 300",
+    "OT": "OTs-03"
+  },
+  "SSG": {
+    "ACS": "ACS12",
+    "BOSG": "BOSG.12.2",
+    "GLAIVE": "Glaive-12",
+    "TCSG": "TCSG12"
+  }
+}
