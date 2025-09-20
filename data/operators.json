@@ -1,6 +1,6 @@
 {
   "STRIKER": {
-    "name": "Striker",
+    "alias": "Striker",
     "side": "ATT",
     "speed": 2,
     "roles": [
@@ -30,12 +30,12 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1",
-      "rework": "Y9S2"
+      "released": "Y0S1",
+      "reworked": "Y9S2"
     }
   },
   "SENTRY": {
-    "name": "Sentry",
+    "alias": "Sentry",
     "side": "DEF",
     "speed": 2,
     "roles": [
@@ -65,12 +65,12 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1",
-      "rework": "Y9S2"
+      "released": "Y0S1",
+      "reworked": "Y9S2"
     }
   },
   "SLEDGE": {
-    "name": "Sledge",
+    "alias": "Sledge",
     "side": "ATT",
     "speed": 2,
     "roles": [
@@ -84,13 +84,6 @@
       "squad": "Redhammer"
     },
     "loadout": {
-      "ability": {
-        "name": "Breaching Hammer",
-        "features": {
-          "gadgetDamage": true,
-          "playerDamage": true
-        }
-      },
       "primaries": [
         "AR.L85",
         "SG.M590"
@@ -106,11 +99,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "THATCHER": {
-    "name": "Thatcher",
+    "alias": "Thatcher",
     "side": "ATT",
     "speed": 1,
     "roles": [
@@ -138,11 +131,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "SMOKE": {
-    "name": "Smoke",
+    "alias": "Smoke",
     "side": "DEF",
     "speed": 2,
     "roles": [
@@ -170,11 +163,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "MUTE": {
-    "name": "Mute",
+    "alias": "Mute",
     "side": "DEF",
     "speed": 1,
     "roles": [
@@ -202,11 +195,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "ASH": {
-    "name": "Ash",
+    "alias": "Ash",
     "side": "ATT",
     "speed": 3,
     "roles": [
@@ -234,11 +227,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "THERMITE": {
-    "name": "Thermite",
+    "alias": "Thermite",
     "side": "ATT",
     "speed": 2,
     "roles": [
@@ -266,11 +259,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "CASTLE": {
-    "name": "Castle",
+    "alias": "Castle",
     "side": "DEF",
     "speed": 2,
     "roles": [
@@ -299,11 +292,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "PULSE": {
-    "name": "Pulse",
+    "alias": "Pulse",
     "side": "DEF",
     "speed": 3,
     "roles": [
@@ -333,11 +326,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "TWITCH": {
-    "name": "Twitch",
+    "alias": "Twitch",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -366,11 +359,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "MONTAGNE": {
-    "name": "Montagne",
+    "alias": "Montagne",
     "speed": 1,
     "side": "ATT",
     "roles": [
@@ -396,11 +389,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "DOC": {
-    "name": "Doc",
+    "alias": "Doc",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -429,11 +422,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "ROOK": {
-    "name": "Rook",
+    "alias": "Rook",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -463,11 +456,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "GLAZ": {
-    "name": "Glaz",
+    "alias": "Glaz",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -496,11 +489,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "FUZE": {
-    "name": "Fuze",
+    "alias": "Fuze",
     "speed": 1,
     "side": "ATT",
     "roles": [
@@ -529,11 +522,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "KAPKAN": {
-    "name": "Kapkan",
+    "alias": "Kapkan",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -561,11 +554,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "TACHANKA": {
-    "name": "Tachanka",
+    "alias": "Tachanka",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -595,12 +588,12 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1",
-      "rework": "Y5S3"
+      "released": "Y0S1",
+      "reworked": "Y5S3"
     }
   },
   "BLITZ": {
-    "name": "Blitz",
+    "alias": "Blitz",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -624,11 +617,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "IQ": {
-    "name": "IQ",
+    "alias": "IQ",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -657,11 +650,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "JAGER": {
-    "name": "Jäger",
+    "alias": "Jäger",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -688,11 +681,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "BANDIT": {
-    "name": "Bandit",
+    "alias": "Bandit",
     "speed": 3,
     "side": "DEF",
     "roles": [
@@ -719,11 +712,11 @@
       ]
     },
     "metadata": {
-      "release": "Y0S1"
+      "released": "Y0S1"
     }
   },
   "BUCK": {
-    "name": "Buck",
+    "alias": "Buck",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -750,11 +743,11 @@
       ]
     },
     "metadata": {
-      "release": "Y1S1"
+      "released": "Y1S1"
     }
   },
   "FROST": {
-    "name": "Frost",
+    "alias": "Frost",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -782,11 +775,11 @@
       ]
     },
     "metadata": {
-      "release": "Y1S1"
+      "released": "Y1S1"
     }
   },
   "BLACKBEARD": {
-    "name": "Blackbeard",
+    "alias": "Blackbeard",
     "speed": 1,
     "side": "ATT",
     "roles": [
@@ -811,12 +804,12 @@
       ]
     },
     "metadata": {
-      "release": "Y1S2",
-      "rework": "Y9S4"
+      "released": "Y1S2",
+      "reworked": "Y9S4"
     }
   },
   "VALKYRIE": {
-    "name": "Valkyrie",
+    "alias": "Valkyrie",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -843,11 +836,11 @@
       ]
     },
     "metadata": {
-      "release": "Y1S2"
+      "released": "Y1S2"
     }
   },
   "CAPITAO": {
-    "name": "Capitão",
+    "alias": "Capitão",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -876,11 +869,11 @@
       ]
     },
     "metadata": {
-      "release": "Y1S3"
+      "released": "Y1S3"
     }
   },
   "CAVEIRA": {
-    "name": "Caveira",
+    "alias": "Caveira",
     "speed": 3,
     "side": "DEF",
     "roles": [
@@ -908,11 +901,11 @@
       ]
     },
     "metadata": {
-      "release": "Y1S3"
+      "released": "Y1S3"
     }
   },
   "HIBANA": {
-    "name": "Hibana",
+    "alias": "Hibana",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -940,11 +933,11 @@
       ]
     },
     "metadata": {
-      "release": "Y1S4"
+      "released": "Y1S4"
     }
   },
   "ECHO": {
-    "name": "Echo",
+    "alias": "Echo",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -972,11 +965,11 @@
       ]
     },
     "metadata": {
-      "release": "Y1S4"
+      "released": "Y1S4"
     }
   },
   "JACKAL": {
-    "name": "Jackal",
+    "alias": "Jackal",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1005,11 +998,11 @@
       ]
     },
     "metadata": {
-      "release": "Y2S1"
+      "released": "Y2S1"
     }
   },
   "MIRA": {
-    "name": "Mira",
+    "alias": "Mira",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -1037,11 +1030,11 @@
       ]
     },
     "metadata": {
-      "release": "Y2S1"
+      "released": "Y2S1"
     }
   },
   "YING": {
-    "name": "Ying",
+    "alias": "Ying",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1069,11 +1062,11 @@
       ]
     },
     "metadata": {
-      "release": "Y2S3"
+      "released": "Y2S3"
     }
   },
   "LESION": {
-    "name": "Lesion",
+    "alias": "Lesion",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -1100,11 +1093,11 @@
       ]
     },
     "metadata": {
-      "release": "Y2S3"
+      "released": "Y2S3"
     }
   },
   "ELA": {
-    "name": "Ela",
+    "alias": "Ela",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -1132,11 +1125,11 @@
       ]
     },
     "metadata": {
-      "release": "Y2S3"
+      "released": "Y2S3"
     }
   },
   "ZOFIA": {
-    "name": "Zofia",
+    "alias": "Zofia",
     "speed": 1,
     "side": "ATT",
     "roles": [
@@ -1163,11 +1156,11 @@
       ]
     },
     "metadata": {
-      "release": "Y2S4"
+      "released": "Y2S4"
     }
   },
   "DOKKAEBI": {
-    "name": "Dokkaebi",
+    "alias": "Dokkaebi",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -1197,11 +1190,11 @@
       ]
     },
     "metadata": {
-      "release": "Y2S4"
+      "released": "Y2S4"
     }
   },
   "VIGIL": {
-    "name": "Vigil",
+    "alias": "Vigil",
     "speed": 3,
     "side": "DEF",
     "roles": [
@@ -1229,11 +1222,11 @@
       ]
     },
     "metadata": {
-      "release": "Y2S4"
+      "released": "Y2S4"
     }
   },
   "LION": {
-    "name": "Lion",
+    "alias": "Lion",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1263,11 +1256,11 @@
       ]
     },
     "metadata": {
-      "release": "Y3S1"
+      "released": "Y3S1"
     }
   },
   "FINKA": {
-    "name": "Finka",
+    "alias": "Finka",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1297,11 +1290,11 @@
       ]
     },
     "metadata": {
-      "release": "Y3S1"
+      "released": "Y3S1"
     }
   },
   "MAESTRO": {
-    "name": "Maestro",
+    "alias": "Maestro",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -1330,11 +1323,11 @@
       ]
     },
     "metadata": {
-      "release": "Y3S2"
+      "released": "Y3S2"
     }
   },
   "ALIBI": {
-    "name": "Alibi",
+    "alias": "Alibi",
     "speed": 3,
     "side": "DEF",
     "roles": [
@@ -1362,11 +1355,11 @@
       ]
     },
     "metadata": {
-      "release": "Y3S2"
+      "released": "Y3S2"
     }
   },
   "MAVERICK": {
-    "name": "Maverick",
+    "alias": "Maverick",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -1394,11 +1387,11 @@
       ]
     },
     "metadata": {
-      "release": "Y3S3"
+      "released": "Y3S3"
     }
   },
   "CLASH": {
-    "name": "Clash",
+    "alias": "Clash",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -1424,12 +1417,12 @@
       ]
     },
     "metadata": {
-      "release": "Y3S3",
-      "rework": "Y10S2"
+      "released": "Y3S3",
+      "reworked": "Y10S2"
     }
   },
   "NOMAD": {
-    "name": "Nomad",
+    "alias": "Nomad",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1457,11 +1450,11 @@
       ]
     },
     "metadata": {
-      "release": "Y3S4"
+      "released": "Y3S4"
     }
   },
   "KAID": {
-    "name": "Kaid",
+    "alias": "Kaid",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -1490,11 +1483,11 @@
       ]
     },
     "metadata": {
-      "release": "Y3S4"
+      "released": "Y3S4"
     }
   },
   "GRIDLOCK": {
-    "name": "Gridlock",
+    "alias": "Gridlock",
     "speed": 1,
     "side": "ATT",
     "roles": [
@@ -1523,11 +1516,11 @@
       ]
     },
     "metadata": {
-      "release": "Y4S1"
+      "released": "Y4S1"
     }
   },
   "MOZZIE": {
-    "name": "Mozzie",
+    "alias": "Mozzie",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -1555,11 +1548,11 @@
       ]
     },
     "metadata": {
-      "release": "Y4S1"
+      "released": "Y4S1"
     }
   },
   "NOKK": {
-    "name": "Nøkk",
+    "alias": "Nøkk",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1588,11 +1581,11 @@
       ]
     },
     "metadata": {
-      "release": "Y4S2"
+      "released": "Y4S2"
     }
   },
   "WARDEN": {
-    "name": "Warden",
+    "alias": "Warden",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -1621,11 +1614,11 @@
       ]
     },
     "metadata": {
-      "release": "Y4S2"
+      "released": "Y4S2"
     }
   },
   "AMARU": {
-    "name": "Amaru",
+    "alias": "Amaru",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1654,11 +1647,11 @@
       ]
     },
     "metadata": {
-      "release": "Y4S3"
+      "released": "Y4S3"
     }
   },
   "GOYO": {
-    "name": "Goyo",
+    "alias": "Goyo",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -1686,11 +1679,11 @@
       ]
     },
     "metadata": {
-      "release": "Y4S3"
+      "released": "Y4S3"
     }
   },
   "KALI": {
-    "name": "Kali",
+    "alias": "Kali",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1719,11 +1712,11 @@
       ]
     },
     "metadata": {
-      "release": "Y4S4"
+      "released": "Y4S4"
     }
   },
   "WAMAI": {
-    "name": "Wamai",
+    "alias": "Wamai",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -1752,11 +1745,11 @@
       ]
     },
     "metadata": {
-      "release": "Y4S4"
+      "released": "Y4S4"
     }
   },
   "IANA": {
-    "name": "Iana",
+    "alias": "Iana",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1784,11 +1777,11 @@
       ]
     },
     "metadata": {
-      "release": "Y5S1"
+      "released": "Y5S1"
     }
   },
   "ORYX": {
-    "name": "Oryx",
+    "alias": "Oryx",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -1815,11 +1808,11 @@
       ]
     },
     "metadata": {
-      "release": "Y5S1"
+      "released": "Y5S1"
     }
   },
   "ACE": {
-    "name": "Ace",
+    "alias": "Ace",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1846,11 +1839,11 @@
       ]
     },
     "metadata": {
-      "release": "Y5S2"
+      "released": "Y5S2"
     }
   },
   "MELUSI": {
-    "name": "Melusi",
+    "alias": "Melusi",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -1878,11 +1871,11 @@
       ]
     },
     "metadata": {
-      "release": "Y5S2"
+      "released": "Y5S2"
     }
   },
   "ZERO": {
-    "name": "Zero",
+    "alias": "Zero",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -1910,11 +1903,11 @@
       ]
     },
     "metadata": {
-      "release": "Y5S3"
+      "released": "Y5S3"
     }
   },
   "ARUNI": {
-    "name": "Aruni",
+    "alias": "Aruni",
     "speed": 1,
     "side": "DEF",
     "roles": [
@@ -1941,11 +1934,11 @@
       ]
     },
     "metadata": {
-      "release": "Y5S4"
+      "released": "Y5S4"
     }
   },
   "FLORES": {
-    "name": "Flores",
+    "alias": "Flores",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -1971,11 +1964,11 @@
       ]
     },
     "metadata": {
-      "release": "Y6S1"
+      "released": "Y6S1"
     }
   },
   "THUNDERBIRD": {
-    "name": "Thunderbird",
+    "alias": "Thunderbird",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -2004,11 +1997,11 @@
       ]
     },
     "metadata": {
-      "release": "Y6S2"
+      "released": "Y6S2"
     }
   },
   "OSA": {
-    "name": "Osa",
+    "alias": "Osa",
     "speed": 1,
     "side": "ATT",
     "roles": [
@@ -2036,11 +2029,11 @@
       ]
     },
     "metadata": {
-      "release": "Y6S3"
+      "released": "Y6S3"
     }
   },
   "THORN": {
-    "name": "Thorn",
+    "alias": "Thorn",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -2068,11 +2061,11 @@
       ]
     },
     "metadata": {
-      "release": "Y6S4"
+      "released": "Y6S4"
     }
   },
   "AZAMI": {
-    "name": "Azami",
+    "alias": "Azami",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -2098,11 +2091,11 @@
       ]
     },
     "metadata": {
-      "release": "Y7S1"
+      "released": "Y7S1"
     }
   },
   "SENS": {
-    "name": "Sens",
+    "alias": "Sens",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -2130,11 +2123,11 @@
       ]
     },
     "metadata": {
-      "release": "Y7S2"
+      "released": "Y7S2"
     }
   },
   "GRIM": {
-    "name": "Grim",
+    "alias": "Grim",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -2163,11 +2156,11 @@
       ]
     },
     "metadata": {
-      "release": "Y7S3"
+      "released": "Y7S3"
     }
   },
   "SOLIS": {
-    "name": "Solis",
+    "alias": "Solis",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -2194,11 +2187,11 @@
       ]
     },
     "metadata": {
-      "release": "Y7S4"
+      "released": "Y7S4"
     }
   },
   "BRAVA": {
-    "name": "Brava",
+    "alias": "Brava",
     "speed": 3,
     "side": "ATT",
     "roles": [
@@ -2226,11 +2219,11 @@
       ]
     },
     "metadata": {
-      "release": "Y8S1"
+      "released": "Y8S1"
     }
   },
   "FENRIR": {
-    "name": "Fenrir",
+    "alias": "Fenrir",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -2256,11 +2249,11 @@
       ]
     },
     "metadata": {
-      "release": "Y8S2"
+      "released": "Y8S2"
     }
   },
   "RAM": {
-    "name": "Ram",
+    "alias": "Ram",
     "speed": 1,
     "side": "ATT",
     "roles": [
@@ -2287,11 +2280,11 @@
       ]
     },
     "metadata": {
-      "release": "Y8S3"
+      "released": "Y8S3"
     }
   },
   "TUBARAO": {
-    "name": "Tubarão",
+    "alias": "Tubarão",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -2318,11 +2311,11 @@
       ]
     },
     "metadata": {
-      "release": "Y8S4"
+      "released": "Y8S4"
     }
   },
   "DEIMOS": {
-    "name": "Deimos",
+    "alias": "Deimos",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -2348,11 +2341,11 @@
       ]
     },
     "metadata": {
-      "release": "Y9S1"
+      "released": "Y9S1"
     }
   },
   "SKOPOS": {
-    "name": "Skopós",
+    "alias": "Skopós",
     "speed": 2,
     "side": "DEF",
     "roles": [
@@ -2378,11 +2371,11 @@
       ]
     },
     "metadata": {
-      "release": "Y9S3"
+      "released": "Y9S3"
     }
   },
   "RAUORA": {
-    "name": "Rauora",
+    "alias": "Rauora",
     "speed": 2,
     "side": "ATT",
     "roles": [
@@ -2410,11 +2403,11 @@
       ]
     },
     "metadata": {
-      "release": "Y10S1"
+      "released": "Y10S1"
     }
   },
   "DENARI": {
-    "name": "Denari",
+    "alias": "Denari",
     "speed": 3,
     "side": "DEF",
     "roles": [
@@ -2442,7 +2435,7 @@
       ]
     },
     "metadata": {
-      "release": "Y10S3"
+      "released": "Y10S3"
     }
   }
 }
