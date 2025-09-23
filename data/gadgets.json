@@ -2,137 +2,137 @@
   "BARBED": {
     "name": "Barbed Wire",
     "amount": 2,
-    "features": {
-      "bulletproof": true,
-      "playerDamage": true,
-      "retrievable": true
-    }
+    "features": [
+      "bulletproof",
+      "playerDamage",
+      "retrievable"
+    ]
   },
   "BEEPER": {
     "name": "Proximity Alarm",
     "amount": 2,
-    "features": {
-      "electric": true,
-      "hackable": true,
-      "retrievable": true,
-      "throwable": true
-    }
+    "features": [
+      "electric",
+      "hackable",
+      "retrievable",
+      "throwable"
+    ]
   },
   "BLOCKER": {
     "name": "Observation Blocker",
     "amount": 3,
-    "features": {
-      "electric": true,
-      "hackable": true,
-      "retrievable": true
-    }
+    "features": [
+      "electric",
+      "hackable",
+      "retrievable"
+    ]
   },
   "BREACH": {
     "name": "Breach Charge",
     "amount": 3,
-    "features": {
-      "electric": true,
-      "environmentDamage": true,
-      "gadgetDamage": true,
-      "hackable": true,
-      "playerDamage": true,
-      "retrievable": true
-    }
+    "features": [
+      "electric",
+      "environmentDamage",
+      "gadgetDamage",
+      "hackable",
+      "playerDamage",
+      "retrievable"
+    ]
   },
   "C4": {
     "name": "Nitro Cell",
     "amount": 1,
-    "features": {
-      "electric": true,
-      "environmentDamage": true,
-      "gadgetDamage": true,
-      "hackable": true,
-      "playerDamage": true,
-      "retrievable": true,
-      "throwable": true
-    }
+    "features": [
+      "electric",
+      "environmentDamage",
+      "gadgetDamage",
+      "hackable",
+      "playerDamage",
+      "retrievable",
+      "throwable"
+    ]
   },
   "CAMERA": {
     "name": "Bulletproof Camera",
     "amount": 1,
-    "features": {
-      "bulletproof": true,
-      "electric": true,
-      "hackable": true,
-      "rechargable": true,
-      "retrievable": true,
-      "steerable": true
-    }
+    "features": [
+      "bulletproof",
+      "electric",
+      "hackable",
+      "rechargable",
+      "retrievable",
+      "steerable"
+    ]
   },
   "CLAYMORE": {
     "name": "Claymore",
     "amount": 2,
-    "features": {
-      "electric": true,
-      "gadgetDamage": true,
-      "hackable": true,
-      "playerDamage": true,
-      "retrievable": true
-    }
+    "features": [
+      "electric",
+      "gadgetDamage",
+      "hackable",
+      "playerDamage",
+      "retrievable"
+    ]
   },
   "EMP": {
     "name": "Impact EMP Grenade",
     "amount": 2,
-    "features": {
-      "throwable": true
-    }
+    "features": [
+      "throwable"
+    ]
   },
   "FRAG": {
     "name": "Frag Grenade",
     "amount": 2,
-    "features": {
-      "gadgetDamage": true,
-      "playerDamage": true,
-      "throwable": true
-    }
+    "features": [
+      "gadgetDamage",
+      "playerDamage",
+      "throwable"
+    ]
   },
   "HARDBREACH": {
     "name": "Hard Breach Charge",
     "amount": 2,
-    "features": {
-      "electric": true,
-      "environmentDamage": true,
-      "gadgetDamage": true,
-      "hackable": true,
-      "playerDamage": true,
-      "retrievable": true
-    }
+    "features": [
+      "electric",
+      "environmentDamage",
+      "gadgetDamage",
+      "hackable",
+      "playerDamage",
+      "retrievable"
+    ]
   },
   "IMPACT": {
     "name": "Impact Grenade",
     "amount": 2,
-    "features": {
-      "environmentDamage": true,
-      "gadgetDamage": true,
-      "playerDamage": true,
-      "throwable": true
-    }
+    "features": [
+      "environmentDamage",
+      "gadgetDamage",
+      "playerDamage",
+      "throwable"
+    ]
   },
   "SHIELD": {
     "name": "Deployable Shield",
     "amount": 1,
-    "features": {
-      "bulletproof": true,
-      "retrievable": true
-    }
+    "features": [
+      "bulletproof",
+      "retrievable"
+    ]
   },
   "SMOKE": {
     "name": "Smoke Grenade",
     "amount": 2,
-    "features": {
-      "throwable": true
-    }
+    "features": [
+      "throwable"
+    ]
   },
   "STUN": {
     "name": "Stun Grenade",
     "amount": 2,
-    "features": {
-      "throwable": true
-    }
+    "features": [
+      "throwable"
+    ]
   }
 }
