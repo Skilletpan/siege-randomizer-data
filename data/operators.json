@@ -673,6 +673,7 @@
         "SG.M870"
       ],
       "secondaries": [
+        "HG.P10",
         "HG.P12"
       ],
       "gadgets": [
@@ -704,6 +705,7 @@
         "SG.M870"
       ],
       "secondaries": [
+        "REV.KERATOS",
         "HG.P12"
       ],
       "gadgets": [
@@ -2183,7 +2185,7 @@
       ],
       "gadgets": [
         "BEEPER",
-        "CAMERA"
+        "IMPACT"
       ]
     },
     "metadata": {
