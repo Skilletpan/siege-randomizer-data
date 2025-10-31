@@ -118,7 +118,7 @@
         "name": "Quick Match",
         "settings": {
           "levels": {
-            "disabled": [
+            "enabled": [
               "HOUSE",
               "OREGON",
               "CLUBHOUSE",
