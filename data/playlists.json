@@ -1,0 +1,476 @@
+[
+  {
+    "name": "Competitive",
+    "playlists": {
+      "PRO_LEAGUE": {
+        "name": "Pro League",
+        "settings": {
+          "levels": {
+            "bans": true,
+            "enabled": [
+              "CLUBHOUSE",
+              "CONSULATE",
+              "BANK",
+              "CHALET",
+              "KAFE",
+              "BORDER",
+              "SKYSCRAPER",
+              "LABS",
+              "LAIR"
+            ]
+          }
+        }
+      },
+      "SIEGE_CUP": {
+        "name": "Siege Cup",
+        "settings": {
+          "disabled": true,
+          "levels": {
+            "enabled": [
+              "THEMEPARK",
+              "BANK",
+              "VILLA",
+              "COASTLINE"
+            ]
+          }
+        }
+      }
+    },
+    "settings": {
+      "operators": {
+        "bans": true
+      }
+    }
+  },
+  {
+    "name": "Tactical",
+    "playlists": {
+      "RANKED": {
+        "name": "Ranked",
+        "settings": {
+          "levels": {
+            "bans": true,
+            "enabled": [
+              "OREGON",
+              "CLUBHOUSE",
+              "CONSULATE",
+              "BANK",
+              "KANAL",
+              "CHALET",
+              "KAFE",
+              "BORDER",
+              "SKYSCRAPER",
+              "COASTLINE",
+              "THEMEPARK",
+              "VILLA",
+              "OUTBACK",
+              "EMERALD",
+              "LABS",
+              "LAIR"
+            ]
+          }
+        }
+      },
+      "UNRANKED": {
+        "name": "Unranked",
+        "settings": {
+          "levels": {
+            "enabled": [
+              "HOUSE",
+              "OREGON",
+              "CLUBHOUSE",
+              "PLANE",
+              "CONSULATE",
+              "BANK",
+              "KANAL",
+              "CHALET",
+              "KAFE",
+              "YACHT",
+              "BORDER",
+              "FAVELA",
+              "SKYSCRAPER",
+              "COASTLINE",
+              "THEMEPARK",
+              "TOWER",
+              "VILLA",
+              "FORTRESS",
+              "OUTBACK",
+              "EMERALD",
+              "BRAVO",
+              "LABS",
+              "LAIR",
+              "ALPHA"
+            ]
+          }
+        }
+      }
+    },
+    "settings": {
+      "operators": {
+        "bans": true
+      }
+    }
+  },
+  {
+    "name": "Quickplay",
+    "playlists": {
+      "QUICKMATCH": {
+        "name": "Quick Match",
+        "settings": {
+          "levels": {
+            "disabled": [
+              "HOUSE",
+              "OREGON",
+              "CLUBHOUSE",
+              "PLANE",
+              "CONSULATE",
+              "BANK",
+              "KANAL",
+              "CHALET",
+              "KAFE",
+              "YACHT",
+              "BORDER",
+              "FAVELA",
+              "SKYSCRAPER",
+              "COASTLINE",
+              "THEMEPARK",
+              "TOWER",
+              "VILLA",
+              "FORTRESS",
+              "OUTBACK",
+              "EMERALD",
+              "BRAVO",
+              "LABS",
+              "LAIR",
+              "ALPHA"
+            ]
+          }
+        }
+      },
+      "DISCOVERY": {
+        "name": "Discovery",
+        "settings": {
+          "disabled": true,
+          "levels": {
+            "enabled": [
+              "BANK",
+              "BORDER",
+              "CHALET",
+              "KAFE",
+              "CLUBHOUSE"
+            ]
+          }
+        }
+      },
+      "DUAL_FRONT": {
+        "name": "Dual Front",
+        "settings": {
+          "levels": {
+            "enabled": [
+              "DISTRICT"
+            ]
+          },
+          "operators": {
+            "mixed": true,
+            "enabled": [
+              "STRIKER",
+              "SENTRY",
+              "SMOKE",
+              "MUTE",
+              "SLEDGE",
+              "THATCHER",
+              "CASTLE",
+              "ASH",
+              "PULSE",
+              "TWITCH",
+              "GLAZ",
+              "FUZE",
+              "KAPKAN",
+              "BANDIT",
+              "FROST",
+              "VALKYRIE",
+              "CAPITAO",
+              "HIBANA",
+              "MAESTRO",
+              "ALIBI",
+              "MAVERICK",
+              "CLASH",
+              "NOMAD",
+              "KAID",
+              "WARDEN",
+              "GOYO",
+              "WAMAI",
+              "ORYX",
+              "ACE",
+              "ARUNI",
+              "THUNDERBIRD",
+              "OSA",
+              "THORN",
+              "AZAMI",
+              "SENS",
+              "SOLIS",
+              "RAUORA",
+              "DENARI"
+            ]
+          }
+        }
+      }
+    },
+    "subcategories": [
+      {
+        "name": "Arcade",
+        "playlists": {
+          "GOLDENGUN": {
+            "name": "Golden Gun",
+            "settings": {
+              "levels": {
+                "enabled": [
+                  "CLOSEQUARTER",
+                  "BRAVO",
+                  "FAVELA",
+                  "EMERALD",
+                  "SKYSCRAPER",
+                  "LAIR",
+                  "ALPHA",
+                  "COASTLINE",
+                  "OUTBACK"
+                ]
+              }
+            }
+          },
+          "ROULETTE": {
+            "name": "Weapon Roulette",
+            "settings": {
+              "levels": {
+                "enabled": [
+                  "CLOSEQUARTER",
+                  "COASTLINE",
+                  "FAVELA",
+                  "LABS",
+                  "THEMEPARK",
+                  "LAIR",
+                  "ALPHA",
+                  "BRAVO",
+                  "OUTBACK"
+                ]
+              }
+            }
+          },
+          "SNIPERS": {
+            "name": "Snipers Only",
+            "settings": {
+              "levels": {
+                "enabled": [
+                  "HEREFORD"
+                ]
+              }
+            }
+          },
+          "HEADSHOTS": {
+            "name": "Headshots Only",
+            "settings": {
+              "levels": {
+                "enabled": [
+                  "COASTLINE",
+                  "THEMEPARK",
+                  "VILLA",
+                  "CLOSEQUARTER",
+                  "LABS"
+                ]
+              },
+              "operators": {
+                "disabled": [
+                  "MONTAGNE",
+                  "BLITZ",
+                  "BLACKBEARD",
+                  "CLASH"
+                ]
+              }
+            }
+          }
+        },
+        "settings": {
+          "disabled": true,
+          "operators": {
+            "duplicates": true,
+            "mixed": true
+          }
+        }
+      }
+    ]
+  },
+  {
+    "name": "Training",
+    "subcategories": [
+      {
+        "name": "Deathmatch",
+        "playlists": {
+          "F4A": {
+            "name": "Free for All",
+            "settings": {
+              "levels": {
+                "enabled": [
+                  "OREGON",
+                  "BORDER",
+                  "COASTLINE",
+                  "THEMEPARK",
+                  "VILLA",
+                  "CLOSEQUARTER",
+                  "ALPHA",
+                  "CONSULATE",
+                  "LABS",
+                  "LAIR"
+                ]
+              }
+            }
+          },
+          "TDM": {
+            "name": "Team Deathmatch",
+            "settings": {
+              "levels": {
+                "enabled": [
+                  "CLUBHOUSE",
+                  "BORDER",
+                  "SKYSCRAPER",
+                  "THEMEPARK",
+                  "VILLA",
+                  "CLOSEQUARTER",
+                  "ALPHA",
+                  "CONSULATE",
+                  "LABS",
+                  "LAIR"
+                ]
+              }
+            }
+          }
+        },
+        "settings": {
+          "operators": {
+            "duplicates": true,
+            "mixed": true,
+            "disabled": [
+              "MONTAGNE",
+              "BLITZ",
+              "BLACKBEARD",
+              "CLASH"
+            ]
+          }
+        }
+      },
+      {
+        "name": "Map Training",
+        "playlists": {
+          "LANDMARK": {
+            "name": "Landmark Drill"
+          },
+          "TARGET": {
+            "name": "Target Drill"
+          }
+        },
+        "settings": {
+          "levels": {
+            "enabled": [
+              "LAIR",
+              "CLUBHOUSE",
+              "BANK",
+              "CONSULATE",
+              "CHALET",
+              "KAFE",
+              "OREGON",
+              "LABS",
+              "SKYSCRAPER",
+              "BORDER",
+              "COASTLINE",
+              "KANAL",
+              "OUTBACK",
+              "VILLA",
+              "THEMEPARK",
+              "EMERALD",
+              "TOWER",
+              "BRAVO",
+              "FORTRESS",
+              "HOUSE",
+              "ALPHA",
+              "FAVELA",
+              "PLANE",
+              "YACHT"
+            ]
+          }
+        }
+      },
+      {
+        "name": "AI Training",
+        "playlists": {
+          "ENLISTED": {
+            "name": "Enlisted",
+            "settings": {
+              "disabled": true
+            }
+          },
+          "FIELD": {
+            "name": "Field Training",
+            "settings": {
+              "levels": {
+                "enabled": [
+                  "OREGON",
+                  "CLUBHOUSE",
+                  "CONSULATE",
+                  "BANK",
+                  "CHALET",
+                  "KAFE",
+                  "BORDER",
+                  "COASTLINE",
+                  "LABS",
+                  "LAIR"
+                ]
+              },
+              "operators": {
+                "enabled": [
+                  "STRIKER",
+                  "SENTRY",
+                  "SLEDGE",
+                  "THATCHER",
+                  "MUTE",
+                  "ASH",
+                  "THERMITE",
+                  "PULSE",
+                  "MONTAGNE",
+                  "DOC",
+                  "ROOK",
+                  "GLAZ",
+                  "FUZE",
+                  "KAPKAN",
+                  "BLITZ",
+                  "IQ",
+                  "JAGER",
+                  "BANDIT",
+                  "BUCK",
+                  "BLACKBEARD",
+                  "VALKYRIE",
+                  "HIBANA",
+                  "JACKAL",
+                  "YING",
+                  "DOKKAEBI",
+                  "VIGIL",
+                  "LION",
+                  "FINKA",
+                  "CLASH",
+                  "KAID",
+                  "WARDEN",
+                  "WAMAI",
+                  "IANA",
+                  "ACE",
+                  "THUNDERBIRD",
+                  "THORN",
+                  "DEIMOS",
+                  "SKOPOS",
+                  "RAUORA"
+                ]
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+]
