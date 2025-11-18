@@ -14,7 +14,7 @@
               "CHALET",
               "KAFE",
               "BORDER",
-              "SKYSCRAPER",
+              "FORTRESS",
               "LABS",
               "LAIR"
             ]
@@ -63,8 +63,8 @@
               "COASTLINE",
               "THEMEPARK",
               "VILLA",
+              "FORTRESS",
               "OUTBACK",
-              "EMERALD",
               "LABS",
               "LAIR"
             ]
@@ -179,35 +179,35 @@
               "MUTE",
               "SLEDGE",
               "THATCHER",
+              "THERMITE",
               "CASTLE",
-              "ASH",
-              "PULSE",
               "TWITCH",
               "GLAZ",
               "FUZE",
-              "KAPKAN",
+              "TACHANKA",
+              "IQ",
+              "JAGER",
               "BANDIT",
-              "FROST",
+              "BUCK",
+              "BLACKBEARD",
               "VALKYRIE",
-              "CAPITAO",
-              "HIBANA",
-              "MAESTRO",
+              "ECHO",
+              "MIRA",
+              "ZOFIA",
+              "VIGIL",
               "ALIBI",
-              "MAVERICK",
               "CLASH",
-              "NOMAD",
               "KAID",
-              "WARDEN",
+              "NOKK",
               "GOYO",
-              "WAMAI",
+              "KALI",
               "ORYX",
-              "ACE",
-              "ARUNI",
+              "MELUSI",
+              "ZERO",
               "THUNDERBIRD",
-              "OSA",
               "THORN",
-              "AZAMI",
               "SENS",
+              "GRIM",
               "SOLIS",
               "RAUORA",
               "DENARI"
@@ -363,8 +363,8 @@
           "LANDMARK": {
             "name": "Landmark Drill"
           },
-          "TARGET": {
-            "name": "Target Drill"
+          "CLEAR": {
+            "name": "Clear House"
           }
         },
         "settings": {
@@ -472,5 +472,13 @@
         }
       }
     ]
+  },
+  {
+    "name": "Experimental",
+    "playlists": {
+      "TESTING_GROUNDS": {
+        "name": "Testing Grounds"
+      }
+    }
   }
 ]
