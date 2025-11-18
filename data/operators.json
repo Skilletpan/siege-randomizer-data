@@ -120,6 +120,7 @@
       "primaries": [
         "AR.L85",
         "AR.AR33",
+        "DMR.PMR",
         "SG.M590"
       ],
       "secondaries": [
@@ -169,7 +170,7 @@
   "MUTE": {
     "alias": "Mute",
     "side": "DEF",
-    "speed": 1,
+    "speed": 2,
     "roles": [
       "Anti-Gadget",
       "Crowd Control"
@@ -251,7 +252,8 @@
       ],
       "secondaries": [
         "HG.M45",
-        "HG.57"
+        "HG.57",
+        "SG.ITAS"
       ],
       "gadgets": [
         "SMOKE",
@@ -858,7 +860,8 @@
     "loadout": {
       "primaries": [
         "AR.PARA",
-        "LMG.M249"
+        "LMG.M249",
+        "DMR.PMR"
       ],
       "secondaries": [
         "HG.PRB",
@@ -923,7 +926,8 @@
     "loadout": {
       "primaries": [
         "AR.T89",
-        "SG.SUPERNOVA"
+        "SG.SUPERNOVA",
+        "DMR.PMR"
       ],
       "secondaries": [
         "MP.BEARING",
@@ -931,7 +935,8 @@
       ],
       "gadgets": [
         "BREACH",
-        "STUN"
+        "STUN",
+        "CLAYMORE"
       ]
     },
     "metadata": {
@@ -1380,12 +1385,14 @@
         "DMR.AR15"
       ],
       "secondaries": [
-        "HG.1911"
+        "HG.1911",
+        "MP.REAPER"
       ],
       "gadgets": [
         "CLAYMORE",
         "STUN",
-        "SMOKE"
+        "SMOKE",
+        "FRAG"
       ]
     },
     "metadata": {
@@ -1570,7 +1577,8 @@
     "loadout": {
       "primaries": [
         "SMG.FMG",
-        "SG.SIXSD"
+        "SG.SIXSD",
+        "DMR.PMR"
       ],
       "secondaries": [
         "HG.57",
@@ -1815,7 +1823,7 @@
   },
   "ACE": {
     "alias": "Ace",
-    "speed": 2,
+    "speed": 1,
     "side": "ATT",
     "roles": [
       "Breach",
@@ -1837,7 +1845,7 @@
       ],
       "gadgets": [
         "CLAYMORE",
-        "BREACH"
+        "STUN"
       ]
     },
     "metadata": {
