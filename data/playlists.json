@@ -9,14 +9,14 @@
             "bans": true,
             "enabled": [
               "CLUBHOUSE",
-              "CONSULATE",
               "BANK",
               "CHALET",
               "KAFE",
               "BORDER",
-              "FORTRESS",
+              "CONSULATE",
               "LABS",
-              "LAIR"
+              "LAIR",
+              "FORTRESS"
             ]
           }
         }
@@ -51,6 +51,7 @@
           "levels": {
             "bans": true,
             "enabled": [
+              "FORTRESS",
               "OREGON",
               "CLUBHOUSE",
               "CONSULATE",
@@ -63,7 +64,6 @@
               "COASTLINE",
               "THEMEPARK",
               "VILLA",
-              "FORTRESS",
               "OUTBACK",
               "LABS",
               "LAIR"
@@ -76,6 +76,7 @@
         "settings": {
           "levels": {
             "enabled": [
+              "FORTRESS",
               "HOUSE",
               "OREGON",
               "CLUBHOUSE",
@@ -93,7 +94,6 @@
               "THEMEPARK",
               "TOWER",
               "VILLA",
-              "FORTRESS",
               "OUTBACK",
               "EMERALD",
               "BRAVO",
@@ -119,6 +119,7 @@
         "settings": {
           "levels": {
             "enabled": [
+              "FORTRESS",
               "HOUSE",
               "OREGON",
               "CLUBHOUSE",
@@ -136,28 +137,12 @@
               "THEMEPARK",
               "TOWER",
               "VILLA",
-              "FORTRESS",
               "OUTBACK",
               "EMERALD",
               "BRAVO",
               "LABS",
               "LAIR",
               "ALPHA"
-            ]
-          }
-        }
-      },
-      "DISCOVERY": {
-        "name": "Discovery",
-        "settings": {
-          "disabled": true,
-          "levels": {
-            "enabled": [
-              "BANK",
-              "BORDER",
-              "CHALET",
-              "KAFE",
-              "CLUBHOUSE"
             ]
           }
         }
@@ -175,15 +160,15 @@
             "enabled": [
               "STRIKER",
               "SENTRY",
-              "SMOKE",
               "MUTE",
               "SLEDGE",
               "THATCHER",
               "THERMITE",
-              "CASTLE",
               "TWITCH",
+              "MONTAGNE",
               "GLAZ",
               "FUZE",
+              "KAPKAN",
               "TACHANKA",
               "IQ",
               "JAGER",
@@ -193,22 +178,21 @@
               "VALKYRIE",
               "ECHO",
               "MIRA",
+              "YING",
               "ZOFIA",
-              "VIGIL",
-              "ALIBI",
+              "MAVERICK",
               "CLASH",
               "KAID",
-              "NOKK",
-              "GOYO",
-              "KALI",
+              "AMARU",
+              "WAMAI",
               "ORYX",
+              "IANA",
+              "ACE",
               "MELUSI",
               "ZERO",
               "THUNDERBIRD",
-              "THORN",
-              "SENS",
-              "GRIM",
               "SOLIS",
+              "RAM",
               "RAUORA",
               "DENARI"
             ]
@@ -319,7 +303,8 @@
                   "ALPHA",
                   "CONSULATE",
                   "LABS",
-                  "LAIR"
+                  "LAIR",
+                  "FORTRESS"
                 ]
               }
             }
@@ -338,7 +323,8 @@
                   "ALPHA",
                   "CONSULATE",
                   "LABS",
-                  "LAIR"
+                  "LAIR",
+                  "FORTRESS"
                 ]
               }
             }
@@ -363,13 +349,14 @@
           "LANDMARK": {
             "name": "Landmark Drill"
           },
-          "CLEAR": {
+          "CLEAR_HOUSE": {
             "name": "Clear House"
           }
         },
         "settings": {
           "levels": {
             "enabled": [
+              "FORTRESS",
               "LAIR",
               "CLUBHOUSE",
               "BANK",
@@ -388,7 +375,6 @@
               "EMERALD",
               "TOWER",
               "BRAVO",
-              "FORTRESS",
               "HOUSE",
               "ALPHA",
               "FAVELA",
@@ -412,16 +398,16 @@
             "settings": {
               "levels": {
                 "enabled": [
-                  "OREGON",
                   "CLUBHOUSE",
-                  "CONSULATE",
+                  "OREGON",
                   "BANK",
                   "CHALET",
                   "KAFE",
-                  "BORDER",
-                  "COASTLINE",
+                  "CONSULATE",
                   "LABS",
-                  "LAIR"
+                  "COASTLINE",
+                  "LAIR",
+                  "BORDER"
                 ]
               },
               "operators": {
@@ -430,9 +416,11 @@
                   "SENTRY",
                   "SLEDGE",
                   "THATCHER",
+                  "SMOKE",
                   "MUTE",
                   "ASH",
                   "THERMITE",
+                  "CASTLE",
                   "PULSE",
                   "MONTAGNE",
                   "DOC",
@@ -440,31 +428,44 @@
                   "GLAZ",
                   "FUZE",
                   "KAPKAN",
+                  "TACHANKA",
                   "BLITZ",
                   "IQ",
                   "JAGER",
                   "BANDIT",
                   "BUCK",
+                  "FROST",
                   "BLACKBEARD",
                   "VALKYRIE",
+                  "CAPITAO",
                   "HIBANA",
                   "JACKAL",
                   "YING",
+                  "LESION",
+                  "ELA",
+                  "ZOFIA",
                   "DOKKAEBI",
                   "VIGIL",
                   "LION",
                   "FINKA",
+                  "ALIBI",
                   "CLASH",
                   "KAID",
+                  "GRIDLOCK",
                   "WARDEN",
+                  "GOYO",
                   "WAMAI",
                   "IANA",
+                  "ORYX",
                   "ACE",
+                  "MELUSI",
                   "THUNDERBIRD",
                   "THORN",
+                  "SOLIS",
                   "DEIMOS",
                   "SKOPOS",
-                  "RAUORA"
+                  "RAUORA",
+                  "DENARI"
                 ]
               }
             }
@@ -472,13 +473,5 @@
         }
       }
     ]
-  },
-  {
-    "name": "Experimental",
-    "playlists": {
-      "TESTING_GROUNDS": {
-        "name": "Testing Grounds"
-      }
-    }
   }
 ]
