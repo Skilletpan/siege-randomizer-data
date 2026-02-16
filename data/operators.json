@@ -3432,5 +3432,44 @@
     "metadata": {
       "released": "Y10S3"
     }
+  },
+  "SNAKE": {
+    "alias": "Solid Snake",
+    "gameplay": {
+      "side": "ATT",
+      "specialties": [
+        "Intel"
+      ],
+      "speed": 3
+    },
+    "loadout": {
+      "weapons": {
+        "primary": [
+          "AR.F2",
+          "DMR.PMR"
+        ],
+        "secondary": [
+          "HG.TACIT"
+        ]
+      },
+      "gadgets": {
+        "primary": "OSP Pouch",
+        "secondary": [
+          "BREACH",
+          "FRAG",
+          "STUN",
+          "SMOKE",
+          "EMP"
+        ]
+      }
+    },
+    "lore": {
+      "biography": {
+        "name": "[REDACTED]"
+      },
+      "affiliations": {
+        "squad": "Ghosteyes"
+      }
+    }
   }
 }
