@@ -3582,7 +3582,8 @@
     "gameplay": {
       "side": "ATT",
       "specialties": [
-        "Intel"
+        "Intel",
+        "Front-Line"
       ],
       "speed": 3
     },
@@ -3597,23 +3598,28 @@
         ]
       },
       "gadgets": {
-        "primary": "OSP Pouch",
+        "primary": "Soliton Radar Mk. III",
         "secondary": [
-          "BREACH",
           "FRAG",
           "STUN",
+          "EMP",
           "SMOKE",
-          "EMP"
+          "BREACH"
         ]
       }
     },
     "lore": {
       "biography": {
-        "name": "[REDACTED]"
+        "name": "[REDACTED]",
+        "birthplace": "[REDACTED]",
+        "birthday": "[REDACTED]"
       },
       "affiliations": {
         "squad": "Ghosteyes"
       }
+    },
+    "metadata": {
+      "released": "Y11S1"
     }
   }
 }
