@@ -32,6 +32,7 @@
     "AR15": "AR-15.50",
     "CAMRS": "CAMRS",
     "MK14": "Mk 14 EBR",
+    "PMR": "PMR90A2",
     "SR25": "SR-25"
   },
   "HC": {
@@ -63,7 +64,7 @@
     "ALDA": "ALDA 5.56",
     "DP27": "DP27",
     "G8": "G8A1",
-    "LMG": "LMG-E",
+    "LMGE": "LMG-E",
     "M249": "M249",
     "M249S": "M249 SAW",
     "T95": "T-95 LSW"
@@ -83,6 +84,7 @@
     "VENDETTA": ".44 Vendetta"
   },
   "SG": {
+    "CQB": "SG-CQB",
     "FO12": "FO-12",
     "ITAL": "ITA12L",
     "ITAS": "ITA12S",
@@ -91,10 +93,9 @@
     "M870": "M870",
     "S90": "Super 90",
     "SASG": "SASG-12",
-    "SG": "SG-CQB",
     "SHORTY": "Super Shorty",
-    "SIX": "SIX12",
-    "SIXSD": "SIX12 SD",
+    "SIX12": "SIX12",
+    "SIX12SD": "SIX12 SD",
     "SPAS12": "SPAS-12",
     "SPAS15": "SPAS-15",
     "SUPERNOVA": "Supernova"

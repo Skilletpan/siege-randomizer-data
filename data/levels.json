@@ -122,7 +122,8 @@
     "location": "Nagoya, Japan",
     "metadata": {
       "released": "Y1S4",
-      "reworked": "Y5S4"
+      "reworked": "Y5S4",
+      "modernized": "Y10S4"
     }
   },
   "COASTLINE": {
@@ -138,7 +139,8 @@
     "location": "Kowloon, Hong Kong",
     "metadata": {
       "released": "Y2S3",
-      "reworked": "Y4S4"
+      "reworked": "Y4S4",
+      "modernized": "Y10S4"
     }
   },
   "TOWER": {
@@ -159,7 +161,9 @@
     "name": "Fortress",
     "location": "Atlas Mountains, Morocco",
     "metadata": {
-      "released": "Y3S4"
+      "released": "Y3S4",
+      "reworked": "Y10S4",
+      "modernized": "Y10S4"
     }
   },
   "OUTBACK": {
