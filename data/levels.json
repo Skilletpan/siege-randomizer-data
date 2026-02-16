@@ -12,7 +12,8 @@
     "location": "Redmond, Oregon, USA",
     "metadata": {
       "released": "Y0S1",
-      "reworked": "Y5S1"
+      "reworked": "Y5S1",
+      "modernized": "Y11S1"
     }
   },
   "HEREFORD": {
@@ -131,7 +132,8 @@
     "location": "Ibiza, Spain",
     "metadata": {
       "released": "Y2S1",
-      "reworked": "Y6S3"
+      "reworked": "Y6S3",
+      "modernized": "Y11S1"
     }
   },
   "THEMEPARK": {
@@ -154,7 +156,8 @@
     "name": "Villa",
     "location": "Tuscany, Italy",
     "metadata": {
-      "released": "Y3S2"
+      "released": "Y3S2",
+      "modernized": "Y11S1"
     }
   },
   "FORTRESS": {
