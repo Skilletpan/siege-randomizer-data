@@ -2737,7 +2737,8 @@
       "weapons": {
         "primary": [
           "AR.AR33",
-          "DMR.SR25"
+          "DMR.SR25",
+          "LMG.T95"
         ],
         "secondary": [
           "HG.GSH"
@@ -3308,7 +3309,7 @@
         "Intel",
         "Support"
       ],
-      "speed": 2
+      "speed": 3
     },
     "loadout": {
       "weapons": {
@@ -3469,9 +3470,6 @@
         "name": "[REDACTED]",
         "birthplace": "[REDACTED]",
         "birthday": "[REDACTED]"
-      },
-      "affiliations": {
-        "squad": "Ghosteyes"
       }
     },
     "metadata": {
