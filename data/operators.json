@@ -3611,8 +3611,8 @@
     },
     "lore": {
       "biography": {
-        "name": "[REDACTED]",
-        "birthplace": "[REDACTED]",
+        "lastName": "[REDACTED]",
+        "nationality": "[REDACTED]",
         "birthday": "[REDACTED]"
       }
     },
