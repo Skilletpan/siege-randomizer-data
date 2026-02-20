@@ -98,7 +98,8 @@
     "name": "Yacht",
     "location": "Baffin Bay, Canada",
     "metadata": {
-      "released": "Y1S1"
+      "released": "Y1S1",
+      "modernized": "Y11S1"
     }
   },
   "BORDER": {
