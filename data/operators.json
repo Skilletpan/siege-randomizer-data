@@ -119,8 +119,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Seamus Cowden",
-        "birthplace": "John O'Groats, Scotland, UK",
+        "givenName": "Seamus",
+        "lastName": "Cowden",
+        "birthplace": "John O'Groats, Scotland",
+        "nationality": "UK",
         "birthday": "April 2nd",
         "age": 35
       },
@@ -165,8 +167,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Mike Baker",
-        "birthplace": "Bideford, England, UK",
+        "givenName": "Mike",
+        "lastName": "Baker",
+        "birthplace": "Bideford, England",
+        "nationality": "UK",
         "birthday": "June 22nd",
         "age": 56
       },
@@ -211,8 +215,10 @@
     },
     "lore": {
       "biography": {
-        "name": "James Porter",
-        "birthplace": "King's Cross, London, England, UK",
+        "givenName": "James",
+        "lastName": "Porter",
+        "birthplace": "King's Cross, London, England",
+        "nationality": "UK",
         "birthday": "May 14th",
         "age": 36
       },
@@ -256,8 +262,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Mark R. Chandar",
-        "birthplace": "York, England, UK",
+        "givenName": "Mark R.",
+        "lastName": "Chandar",
+        "birthplace": "York, England",
+        "nationality": "UK",
         "birthday": "October 11th",
         "age": 25
       },
@@ -301,8 +309,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Eliza Cohen",
-        "birthplace": "Jerusalem, Israel",
+        "givenName": "Eliza",
+        "lastName": "Cohen",
+        "birthplace": "Jerusalem",
+        "nationality": "Israel",
         "birthday": "December 24th",
         "age": 33
       },
@@ -347,8 +357,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Jordan Trace",
-        "birthplace": "Plano, Texas, USA",
+        "givenName": "Jordan",
+        "lastName": "Trace",
+        "birthplace": "Plano, Texas",
+        "nationality": "USA",
         "birthday": "March 14th",
         "age": 35
       },
@@ -393,8 +405,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Miles Campbell",
-        "birthplace": "Sherman Oaks, California, USA",
+        "givenName": "Miles",
+        "lastName": "Campbell",
+        "birthplace": "Sherman Oaks, California",
+        "nationality": "USA",
         "birthday": "September 20th",
         "age": 36
       },
@@ -440,8 +454,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Jack Estrada",
-        "birthplace": "Goldsboro, North Carolina, USA",
+        "givenName": "Jack",
+        "lastName": "Estrada",
+        "birthplace": "Goldsboro, North Carolina",
+        "nationality": "USA",
         "birthday": "October 11th",
         "age": 32
       },
@@ -486,8 +502,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Emmanuelle Pichon",
-        "birthplace": "Nancy, France",
+        "givenName": "Emmanuelle",
+        "lastName": "Pichon",
+        "birthplace": "Nancy",
+        "nationality": "France",
         "birthday": "October 12th",
         "age": 28
       },
@@ -529,8 +547,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Gilles Touré",
-        "birthplace": "Bordeaux, France",
+        "givenName": "Gilles",
+        "lastName": "Touré",
+        "birthplace": "Bordeaux",
+        "nationality": "France",
         "birthday": "October 11th",
         "age": 48
       },
@@ -575,8 +595,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Gustave Kateb",
-        "birthplace": "Paris, France",
+        "givenName": "Gustave",
+        "lastName": "Kateb",
+        "birthplace": "Paris",
+        "nationality": "France",
         "birthday": "September 16th",
         "age": 39
       },
@@ -622,8 +644,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Julien Nizan",
-        "birthplace": "Tours, France",
+        "givenName": "Julien",
+        "lastName": "Nizan",
+        "birthplace": "Tours",
+        "nationality": "France",
         "birthday": "January 6th",
         "age": 27
       },
@@ -668,8 +692,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Timur Glazkov",
-        "birthplace": "Vladivostok, Russia",
+        "givenName": "Timur",
+        "lastName": "Glazkov",
+        "birthplace": "Vladivostok",
+        "nationality": "Russia",
         "birthday": "July 2nd",
         "age": 30
       },
@@ -714,8 +740,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Shuhrat Kessikbayev",
-        "birthplace": "Samarkand, Uzbekistan",
+        "givenName": "Shuhrat",
+        "lastName": "Kessikbayev",
+        "birthplace": "Samarkand",
+        "nationality": "Uzbekistan",
         "birthday": "October 12th",
         "age": 34
       },
@@ -759,8 +787,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Maxim Basuda",
-        "birthplace": "Kovrov, Russia",
+        "givenName": "Maxim",
+        "lastName": "Basuda",
+        "birthplace": "Kovrov",
+        "nationality": "Russia",
         "birthday": "May 14th",
         "age": 38
       },
@@ -806,8 +836,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Alexsandr Senaviev",
-        "birthplace": "Saint Petersburg, Russia",
+        "givenName": "Alexsandr",
+        "lastName": "Senaviev",
+        "birthplace": "Saint Petersburg",
+        "nationality": "Russia",
         "birthday": "November 3rd",
         "age": 48
       },
@@ -848,8 +880,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Elias Kötz",
-        "birthplace": "Bremen, Germany",
+        "givenName": "Elias",
+        "lastName": "Kötz",
+        "birthplace": "Bremen",
+        "nationality": "Germany",
         "birthday": "April 2nd",
         "age": 37
       },
@@ -894,8 +928,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Monika Weiss",
-        "birthplace": "Leipzig, Germany",
+        "givenName": "Monika",
+        "lastName": "Weiss",
+        "birthplace": "Leipzig",
+        "nationality": "Germany",
         "birthday": "August 1st",
         "age": 38
       },
@@ -939,8 +975,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Marius Streicher",
-        "birthplace": "Düsseldorf, Germany",
+        "givenName": "Marius",
+        "lastName": "Streicher",
+        "birthplace": "Düsseldorf",
+        "nationality": "Germany",
         "birthday": "March 9th",
         "age": 39
       },
@@ -984,8 +1022,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Dominic Brunsmeier",
-        "birthplace": "Berlin, Germany",
+        "givenName": "Dominic",
+        "lastName": "Brunsmeier",
+        "birthplace": "Berlin",
+        "nationality": "Germany",
         "birthday": "August 13th",
         "age": 42
       },
@@ -1028,8 +1068,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Sebastien Côté",
-        "birthplace": "Montréal, Quebec, Canada",
+        "givenName": "Sebastien",
+        "lastName": "Côté",
+        "birthplace": "Montréal, Quebec",
+        "nationality": "Canada",
         "birthday": "August 20th",
         "age": 36
       },
@@ -1073,8 +1115,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Tina Lin Tsang",
-        "birthplace": "Vancouver, British Columbia, Canada",
+        "givenName": "Tina Lin",
+        "lastName": "Tsang",
+        "birthplace": "Vancouver, British Columbia",
+        "nationality": "Canada",
         "birthday": "May 4th",
         "age": 32
       },
@@ -1115,8 +1159,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Craig Jenson",
-        "birthplace": "Bellevue, Washington, USA",
+        "givenName": "Craig",
+        "lastName": "Jenson",
+        "birthplace": "Bellevue, Washington",
+        "nationality": "USA",
         "birthday": "March 12th",
         "age": 32
       },
@@ -1160,8 +1206,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Meghan J. Castellano",
-        "birthplace": "Oceanside, California, USA",
+        "givenName": "Meghan J.",
+        "lastName": "Castellano",
+        "birthplace": "Oceanside, California",
+        "nationality": "USA",
         "birthday": "July 21st",
         "age": 31
       },
@@ -1207,8 +1255,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Vicente Souza",
-        "birthplace": "Nova Iguaçu, Brazil",
+        "givenName": "Vicente",
+        "lastName": "Souza",
+        "birthplace": "Nova Iguaçu",
+        "nationality": "Brazil",
         "birthday": "November 17th",
         "age": 49
       },
@@ -1252,8 +1302,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Taina Pereira",
-        "birthplace": "Rinópolis, Brazil",
+        "givenName": "Taina",
+        "lastName": "Pereira",
+        "birthplace": "Rinópolis",
+        "nationality": "Brazil",
         "birthday": "October 15th",
         "age": 27
       },
@@ -1299,8 +1351,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Yumiko Imagawa",
-        "birthplace": "Nagoya, Japan",
+        "givenName": "Yumiko",
+        "lastName": "Imagawa",
+        "birthplace": "Nagoya",
+        "nationality": "Japan",
         "birthday": "July 12th",
         "age": 34
       },
@@ -1344,8 +1398,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Masaru Enatsu",
-        "birthplace": "Suginami-ku, Tokyo, Japan",
+        "givenName": "Masaru",
+        "lastName": "Enatsu",
+        "birthplace": "Suginami-ku, Tokyo",
+        "nationality": "Japan",
         "birthday": "October 31st",
         "age": 36
       },
@@ -1390,8 +1446,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Ryad Ramírez Al-Hassar",
-        "birthplace": "Ceuta, Spain",
+        "givenName": "Ryad Ramírez",
+        "lastName": "Al-Hassar",
+        "birthplace": "Ceuta",
+        "nationality": "Spain",
         "birthday": "February 29th",
         "age": 49
       },
@@ -1435,8 +1493,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Elena María Álvarez",
-        "birthplace": "Madrid, Spain",
+        "givenName": "Elena María",
+        "lastName": "Álvarez",
+        "birthplace": "Madrid",
+        "nationality": "Spain",
         "birthday": "November 18th",
         "age": 39
       },
@@ -1480,8 +1540,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Siu Mei Lin",
-        "birthplace": "Central District, Hong Kong",
+        "givenNameRight": "Mei Lin",
+        "lastName": "Siu",
+        "birthplace": "Central District",
+        "nationality": "Hong Kong",
         "birthday": "May 12th",
         "age": 33
       },
@@ -1524,8 +1586,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Liu Tze Long",
-        "birthplace": "Junk Bay, Hong Kong",
+        "givenNameRight": "Tze Long",
+        "lastName": "Liu",
+        "birthplace": "Junk Bay",
+        "nationality": "Hong Kong",
         "birthday": "July 2nd",
         "age": 44
       },
@@ -1569,8 +1633,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Elżbieta Bosak",
-        "birthplace": "Wrocław, Poland",
+        "givenName": "Elżbieta",
+        "lastName": "Bosak",
+        "birthplace": "Wrocław",
+        "nationality": "Poland",
         "birthday": "November 8th",
         "age": 31
       },
@@ -1613,8 +1679,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Zofia Bosak",
-        "birthplace": "Wrocław, Poland",
+        "givenName": "Zofia",
+        "lastName": "Bosak",
+        "birthplace": "Wrocław",
+        "nationality": "Poland",
         "birthday": "January 28th",
         "age": 36
       },
@@ -1660,8 +1728,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Grace Nam",
-        "birthplace": "Seoul, South Korea",
+        "givenName": "Grace",
+        "lastName": "Nam",
+        "birthplace": "Seoul",
+        "nationality": "South Korea",
         "birthday": "February 2nd",
         "age": 29
       },
@@ -1705,8 +1775,9 @@
     },
     "lore": {
       "biography": {
-        "name": "Chul Kyung Hwa",
-        "birthplace": "[REDACTED]",
+        "givenName": "Chul Kyung",
+        "lastName": "Hwa",
+        "nationality": "[REDACTED]",
         "birthday": "January 17th",
         "age": 34
       },
@@ -1752,8 +1823,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Olivier Flament",
-        "birthplace": "Toulouse, France",
+        "givenName": "Olivier",
+        "lastName": "Flament",
+        "birthplace": "Toulouse",
+        "nationality": "France",
         "birthday": "August 29th",
         "age": 31
       },
@@ -1799,8 +1872,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Lera Melnikova",
-        "birthplace": "Gomel, Belarus",
+        "givenName": "Lera",
+        "lastName": "Melnikova",
+        "birthplace": "Gomel",
+        "nationality": "Belarus",
         "birthday": "June 7th",
         "age": 27
       },
@@ -1845,8 +1920,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Adriano Martello",
-        "birthplace": "Rome, Italy",
+        "givenName": "Adriano",
+        "lastName": "Martello",
+        "birthplace": "Rome",
+        "nationality": "Italy",
         "birthday": "April 13th",
         "age": 45
       },
@@ -1890,8 +1967,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Aria de Luca",
-        "birthplace": "Tripoli, Libya",
+        "givenName": "Aria",
+        "lastName": "de Luca",
+        "birthplace": "Tripoli",
+        "nationality": "Libya",
         "birthday": "December 15th",
         "age": 37
       },
@@ -1936,8 +2015,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Erik Thorn",
-        "birthplace": "Boston, Massachusetts, USA",
+        "givenName": "Erik",
+        "lastName": "Thorn",
+        "birthplace": "Boston, Massachusetts",
+        "nationality": "USA",
         "birthday": "April 20th",
         "age": 36
       },
@@ -1981,8 +2062,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Morowa Evans",
-        "birthplace": "London, England, UK",
+        "givenName": "Morowa",
+        "lastName": "Evans",
+        "birthplace": "London, England",
+        "nationality": "UK",
         "birthday": "June 7th",
         "age": 35
       },
@@ -2027,8 +2110,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Sanaa El Maktoub",
-        "birthplace": "Marrakesh, Morocco",
+        "givenName": "Sanaa",
+        "lastName": "El Maktoub",
+        "birthplace": "Marrakesh",
+        "nationality": "Morocco",
         "birthday": "July 27th",
         "age": 39
       },
@@ -2073,8 +2158,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Jalal El Fassi",
-        "birthplace": "Aroumd, Morocco",
+        "givenName": "Jalal",
+        "lastName": "El Fassi",
+        "birthplace": "Aroumd",
+        "nationality": "Morocco",
         "birthday": "June 26th",
         "age": 58
       },
@@ -2119,8 +2206,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Tori Tallyo Fairous",
-        "birthplace": "Longreach, Central Queensland, Australia",
+        "givenName": "Tori Tallyo",
+        "lastName": "Fairous",
+        "birthplace": "Longreach, Central Queensland",
+        "nationality": "Australia",
         "birthday": "August 5th",
         "age": 36
       },
@@ -2165,8 +2254,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Max Goose",
-        "birthplace": "Portland, Australia",
+        "givenName": "Max",
+        "lastName": "Goose",
+        "birthplace": "Portland",
+        "nationality": "Australia",
         "birthday": "February 15th",
         "age": 35
       },
@@ -2212,8 +2303,8 @@
     },
     "lore": {
       "biography": {
-        "name": "[REDACTED]",
-        "birthplace": "[REDACTED]",
+        "lastName": "[REDACTED]",
+        "nationality": "[REDACTED]",
         "birthday": "[REDACTED]"
       },
       "affiliations": {
@@ -2257,8 +2348,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Collinn McKinley",
-        "birthplace": "Louisville, Kentucky, USA",
+        "givenName": "Collinn",
+        "lastName": "McKinley",
+        "birthplace": "Louisville, Kentucky",
+        "nationality": "USA",
         "birthday": "March 18th",
         "age": 48
       },
@@ -2303,8 +2396,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Azucena Rocío Quispe",
-        "birthplace": "Cojata, Peru",
+        "givenName": "Azucena Rocío",
+        "lastName": "Quispe",
+        "birthplace": "Cojata",
+        "nationality": "Peru",
         "birthday": "May 6th",
         "age": 48
       },
@@ -2348,8 +2443,10 @@
     },
     "lore": {
       "biography": {
-        "name": "César Ruiz Hernández",
-        "birthplace": "Culiacán Rosales, Mexico",
+        "givenName": "César Ruiz",
+        "lastName": "Hernández",
+        "birthplace": "Culiacán Rosales",
+        "nationality": "Mexico",
         "birthday": "June 20th",
         "age": 31
       },
@@ -2395,8 +2492,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Jaimini Kalimohan Shah",
-        "birthplace": "Amreli, India",
+        "givenName": "Jaimini Kalimohan",
+        "lastName": "Shah",
+        "birthplace": "Amreli",
+        "nationality": "India",
         "birthday": "August 21st",
         "age": 34
       },
@@ -2441,8 +2540,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Ngũgĩ Muchoki Furaha",
-        "birthplace": "Lamu, Kenya",
+        "givenName": "Ngũgĩ Muchoki",
+        "lastName": "Furaha",
+        "birthplace": "Lamu",
+        "nationality": "Kenya",
         "birthday": "June 1st",
         "age": 28
       },
@@ -2486,8 +2587,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Nienke Meijer",
-        "birthplace": "Katwijk, the Netherlands",
+        "givenName": "Nienke",
+        "lastName": "Meijer",
+        "birthplace": "Katwijk",
+        "nationality": "the Netherlands",
         "birthday": "August 27th",
         "age": 35
       },
@@ -2531,8 +2634,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Saif Al Hadid",
-        "birthplace": "Azraq, Jordan",
+        "givenName": "Saif",
+        "lastName": "Al Hadid",
+        "birthplace": "Azraq",
+        "nationality": "Jordan",
         "birthday": "July 3rd",
         "age": 45
       },
@@ -2574,8 +2679,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Håvard Haugland",
-        "birthplace": "Lærdalsøyri, Norway",
+        "givenName": "Håvard",
+        "lastName": "Haugland",
+        "birthplace": "Lærdalsøyri",
+        "nationality": "Norway",
         "birthday": "March 15th",
         "age": 33
       },
@@ -2620,8 +2727,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Thandiwe Ndlovu",
-        "birthplace": "Louwsburg, South Africa",
+        "givenName": "Thandiwe",
+        "lastName": "Ndlovu",
+        "birthplace": "Louwsburg",
+        "nationality": "South Africa",
         "birthday": "June 16th",
         "age": 32
       },
@@ -2665,8 +2774,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Samuel Leo Fisher",
-        "birthplace": "Baltimore, Maryland, USA",
+        "givenName": "Samuel Leo",
+        "lastName": "Fisher",
+        "birthplace": "Baltimore, Maryland",
+        "nationality": "USA",
         "birthday": "August 8th",
         "age": 63
       },
@@ -2709,8 +2820,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Apha Tawanroong",
-        "birthplace": "Ta Phraya District, Thailand",
+        "givenName": "Apha",
+        "lastName": "Tawanroong",
+        "birthplace": "Ta Phraya District",
+        "nationality": "Thailand",
         "birthday": "August 9th",
         "age": 42
       },
@@ -2753,8 +2866,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Santiago Miguel Lucero",
-        "birthplace": "Buenos Aires, Argentina",
+        "givenName": "Santiago Miguel",
+        "lastName": "Lucero",
+        "birthplace": "Buenos Aires",
+        "nationality": "Argentina",
         "birthday": "October 2nd",
         "age": 38
       },
@@ -2798,8 +2913,9 @@
     },
     "lore": {
       "biography": {
-        "name": "Mina Sky",
-        "birthplace": "Nakoda Territories",
+        "givenName": "Mina",
+        "lastName": "Sky",
+        "nationality": "Nakoda Territories",
         "birthday": "April 1st",
         "age": 36
       },
@@ -2843,8 +2959,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Anja Katarina Janković",
-        "birthplace": "Split, Croatia",
+        "givenName": "Anja Katarina",
+        "lastName": "Janković",
+        "birthplace": "Split",
+        "nationality": "Croatia",
         "birthday": "April 29th",
         "age": 27
       },
@@ -2888,8 +3006,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Brianna Skehan",
-        "birthplace": "County Kildare, Ireland",
+        "givenName": "Brianna",
+        "lastName": "Skehan",
+        "birthplace": "County Kildare",
+        "nationality": "Ireland",
         "birthday": "June 18th",
         "age": 28
       },
@@ -2932,8 +3052,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Kana Fujiwara",
-        "birthplace": "Kyoto, Japan",
+        "givenName": "Kana",
+        "lastName": "Fujiwara",
+        "birthplace": "Kyoto",
+        "nationality": "Japan",
         "birthday": "September 6th",
         "age": 28
       },
@@ -2976,8 +3098,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Néon Ngoma Mutombo",
-        "birthplace": "Brussels, Belgium",
+        "givenName": "Néon",
+        "lastName": "Ngoma Mutombo",
+        "birthplace": "Brussels",
+        "nationality": "Belgium",
         "birthday": "March 3rd",
         "age": 30
       },
@@ -3022,8 +3146,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Charlie Tho Keng Boon",
-        "birthplace": "Jurong, Singapore",
+        "givenName": "Charlie Tho",
+        "lastName": "Keng Boon",
+        "birthplace": "Jurong",
+        "nationality": "Singapore",
         "birthday": "April 5th",
         "age": 39
       },
@@ -3066,8 +3192,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Ana Valentina Díaz",
-        "birthplace": "Zipaquirá, Colombia",
+        "givenName": "Ana Valentina",
+        "lastName": "Díaz",
+        "birthplace": "Zipaquirá",
+        "nationality": "Colombia",
         "birthday": "September 18th",
         "age": 37
       },
@@ -3112,8 +3240,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Nayara Cardoso",
-        "birthplace": "Curitiba, Brazil",
+        "givenName": "Nayara",
+        "lastName": "Cardoso",
+        "birthplace": "Curitiba",
+        "nationality": "Brazil",
         "birthday": "January 10th",
         "age": 40
       },
@@ -3156,8 +3286,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Emil Svensson",
-        "birthplace": "Uppsala, Sweden",
+        "givenName": "Emil",
+        "lastName": "Svensson",
+        "birthplace": "Uppsala",
+        "nationality": "Sweden",
         "birthday": "December 3rd",
         "age": 34
       },
@@ -3199,8 +3331,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Bo-Ram Choi",
-        "birthplace": "Busan, South Korea",
+        "givenName": "Bo-Ram",
+        "lastName": "Choi",
+        "birthplace": "Busan",
+        "nationality": "South Korea",
         "birthday": "April 25th",
         "age": 37
       },
@@ -3243,8 +3377,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Isaac Nunes Oliveira",
-        "birthplace": "Ponta Delgada, Portugal",
+        "givenName": "Isaac",
+        "lastName": "Nunes Oliveira",
+        "birthplace": "Ponta Delgada",
+        "nationality": "Portugal",
         "birthday": "November 24th",
         "age": 35
       },
@@ -3287,8 +3423,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Gerald Morris",
-        "birthplace": "Birmingham, Alabama, USA",
+        "givenName": "Gerald",
+        "lastName": "Morris",
+        "birthplace": "Birmingham, Alabama",
+        "nationality": "USA",
         "birthday": "December 24th",
         "age": 51
       },
@@ -3329,8 +3467,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Kure Galanos",
-        "birthplace": "Nicosia, Cyprus",
+        "givenName": "Kure",
+        "lastName": "Galanos",
+        "birthplace": "Nicosia",
+        "nationality": "Cyprus",
         "birthday": "July 25th",
         "age": 42
       },
@@ -3374,8 +3514,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Hāpai Iwini",
-        "birthplace": "Christchurch, New Zealand",
+        "givenName": "Hāpai",
+        "lastName": "Iwini",
+        "birthplace": "Christchurch",
+        "nationality": "New Zealand",
         "birthday": "May 11th",
         "age": 29
       },
@@ -3419,8 +3561,10 @@
     },
     "lore": {
       "biography": {
-        "name": "Leon Winzenried",
-        "birthplace": "Lugano, Switzerland",
+        "givenName": "Leon",
+        "lastName": "Winzenried",
+        "birthplace": "Lugano",
+        "nationality": "Switzerland",
         "birthday": "November 30th",
         "age": 38
       },
