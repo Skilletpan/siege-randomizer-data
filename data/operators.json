@@ -2850,7 +2850,8 @@
       "weapons": {
         "primary": [
           "AR.AR33",
-          "DMR.SR25"
+          "DMR.SR25",
+          "LMG.T95"
         ],
         "secondary": [
           "HG.GSH"
@@ -3446,7 +3447,7 @@
         "Intel",
         "Support"
       ],
-      "speed": 2
+      "speed": 3
     },
     "loadout": {
       "weapons": {
@@ -3575,6 +3576,48 @@
     },
     "metadata": {
       "released": "Y10S3"
+    }
+  },
+  "SNAKE": {
+    "alias": "Solid Snake",
+    "gameplay": {
+      "side": "ATT",
+      "specialties": [
+        "Intel",
+        "Front-Line"
+      ],
+      "speed": 3
+    },
+    "loadout": {
+      "weapons": {
+        "primary": [
+          "AR.F2",
+          "DMR.PMR"
+        ],
+        "secondary": [
+          "HG.TACIT"
+        ]
+      },
+      "gadgets": {
+        "primary": "Soliton Radar Mk. III",
+        "secondary": [
+          "FRAG",
+          "STUN",
+          "EMP",
+          "SMOKE",
+          "BREACH"
+        ]
+      }
+    },
+    "lore": {
+      "biography": {
+        "lastName": "[REDACTED]",
+        "nationality": "[REDACTED]",
+        "birthday": "[REDACTED]"
+      }
+    },
+    "metadata": {
+      "released": "Y11S1"
     }
   }
 }
