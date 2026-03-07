@@ -51,20 +51,17 @@
           "levels": {
             "bans": true,
             "enabled": [
-              "FORTRESS",
+              "EMERALD",
               "OREGON",
               "CLUBHOUSE",
               "CONSULATE",
               "BANK",
-              "KANAL",
               "CHALET",
               "KAFE",
               "BORDER",
-              "SKYSCRAPER",
               "COASTLINE",
-              "THEMEPARK",
               "VILLA",
-              "OUTBACK",
+              "FORTRESS",
               "LABS",
               "LAIR"
             ]
@@ -76,7 +73,6 @@
         "settings": {
           "levels": {
             "enabled": [
-              "FORTRESS",
               "HOUSE",
               "OREGON",
               "CLUBHOUSE",
@@ -94,6 +90,7 @@
               "THEMEPARK",
               "TOWER",
               "VILLA",
+              "FORTRESS",
               "OUTBACK",
               "EMERALD",
               "BRAVO",
@@ -119,7 +116,6 @@
         "settings": {
           "levels": {
             "enabled": [
-              "FORTRESS",
               "HOUSE",
               "OREGON",
               "CLUBHOUSE",
@@ -137,6 +133,7 @@
               "THEMEPARK",
               "TOWER",
               "VILLA",
+              "FORTRESS",
               "OUTBACK",
               "EMERALD",
               "BRAVO",
@@ -160,37 +157,63 @@
             "enabled": [
               "STRIKER",
               "SENTRY",
-              "MUTE",
               "SLEDGE",
               "THATCHER",
+              "SMOKE",
+              "MUTE",
+              "ASH",
               "THERMITE",
+              "CASTLE",
+              "PULSE",
               "TWITCH",
               "MONTAGNE",
+              "DOC",
               "GLAZ",
               "FUZE",
               "KAPKAN",
               "TACHANKA",
+              "BLITZ",
               "IQ",
               "JAGER",
               "BANDIT",
               "BUCK",
+              "FROST",
               "BLACKBEARD",
               "VALKYRIE",
+              "CAPITAO",
+              "HIBANA",
               "ECHO",
               "MIRA",
               "YING",
+              "LESION",
+              "ELA",
               "ZOFIA",
+              "VIGIL",
+              "MAESTRO",
+              "ALIBI",
               "MAVERICK",
               "CLASH",
+              "NOMAD",
               "KAID",
+              "NOKK",
+              "WARDEN",
               "AMARU",
+              "GOYO",
+              "KALI",
               "WAMAI",
-              "ORYX",
               "IANA",
+              "ORYX",
               "ACE",
               "MELUSI",
               "ZERO",
+              "ARUNI",
+              "FLORES",
               "THUNDERBIRD",
+              "OSA",
+              "THORN",
+              "AZAMI",
+              "SENS",
+              "GRIM",
               "SOLIS",
               "RAM",
               "RAUORA",
@@ -290,47 +313,35 @@
         "name": "Deathmatch",
         "playlists": {
           "F4A": {
-            "name": "Free for All",
-            "settings": {
-              "levels": {
-                "enabled": [
-                  "OREGON",
-                  "BORDER",
-                  "COASTLINE",
-                  "THEMEPARK",
-                  "VILLA",
-                  "CLOSEQUARTER",
-                  "ALPHA",
-                  "CONSULATE",
-                  "LABS",
-                  "LAIR",
-                  "FORTRESS"
-                ]
-              }
-            }
+            "name": "Free for All"
           },
           "TDM": {
-            "name": "Team Deathmatch",
-            "settings": {
-              "levels": {
-                "enabled": [
-                  "CLUBHOUSE",
-                  "BORDER",
-                  "SKYSCRAPER",
-                  "THEMEPARK",
-                  "VILLA",
-                  "CLOSEQUARTER",
-                  "ALPHA",
-                  "CONSULATE",
-                  "LABS",
-                  "LAIR",
-                  "FORTRESS"
-                ]
-              }
-            }
+            "name": "Team Deathmatch"
           }
         },
         "settings": {
+          "levels": {
+            "enabled": [
+              "OREGON",
+              "CLUBHOUSE",
+              "CONSULATE",
+              "BANK",
+              "KANAL",
+              "CHALET",
+              "KAFE",
+              "BORDER",
+              "SKYSCRAPER",
+              "COASTLINE",
+              "THEMEPARK",
+              "VILLA",
+              "FORTRESS",
+              "OUTBACK",
+              "EMERALD",
+              "LABS",
+              "CLOSEQUARTER",
+              "LAIR"
+            ]
+          },
           "operators": {
             "duplicates": true,
             "mixed": true,
@@ -356,7 +367,6 @@
         "settings": {
           "levels": {
             "enabled": [
-              "FORTRESS",
               "LAIR",
               "CLUBHOUSE",
               "BANK",
@@ -375,6 +385,7 @@
               "EMERALD",
               "TOWER",
               "BRAVO",
+              "FORTRESS",
               "HOUSE",
               "ALPHA",
               "FAVELA",
@@ -398,20 +409,16 @@
             "settings": {
               "levels": {
                 "enabled": [
-                  "CLUBHOUSE",
                   "OREGON",
+                  "CLUBHOUSE",
+                  "CONSULATE",
                   "BANK",
                   "CHALET",
                   "KAFE",
-                  "CONSULATE",
-                  "LABS",
-                  "COASTLINE",
-                  "LAIR",
                   "BORDER",
-                  "VILLA",
-                  "SKYSCRAPER",
-                  "FORTRESS",
-                  "THEMEPARK"
+                  "COASTLINE",
+                  "LABS",
+                  "LAIR"
                 ]
               },
               "operators": {
@@ -474,11 +481,13 @@
                   "THUNDERBIRD",
                   "THORN",
                   "SENS",
+                  "GRIM",
                   "SOLIS",
                   "DEIMOS",
                   "SKOPOS",
                   "RAUORA",
-                  "DENARI"
+                  "DENARI",
+                  "SNAKE"
                 ]
               }
             }
