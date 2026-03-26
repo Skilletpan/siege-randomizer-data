@@ -3,17 +3,36 @@
     "name": "House",
     "location": "Los Angeles, California, USA",
     "metadata": {
-      "released": "Y0S1",
-      "reworked": "Y5S2"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y5S2",
+          "type": "Rework"
+        }
+      ]
     }
   },
   "OREGON": {
     "name": "Oregon",
     "location": "Redmond, Oregon, USA",
     "metadata": {
-      "released": "Y0S1",
-      "reworked": "Y5S1",
-      "modernized": "Y11S1"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y5S1",
+          "type": "Rework"
+        },
+        {
+          "season": "Y11S1",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "HEREFORD": {
@@ -21,68 +40,144 @@
     "location": "England, UK",
     "metadata": {
       "disabled": true,
-      "released": "Y0S1",
-      "reworked": "Y3S3"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y3S3",
+          "type": "Rework"
+        }
+      ]
     }
   },
   "CLUBHOUSE": {
     "name": "Club House",
     "location": "Hanover, Germany",
     "metadata": {
-      "released": "Y0S1",
-      "reworked": "Y6S3",
-      "modernized": "Y10S2"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y6S3",
+          "type": "Rework"
+        },
+        {
+          "season": "Y10S2",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "PLANE": {
     "name": "Presidential Plane",
     "location": "London, England, UK",
     "metadata": {
-      "released": "Y0S1"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        }
+      ]
     }
   },
   "CONSULATE": {
     "name": "Consulate",
     "location": "Abidjan, Ivory Coast",
     "metadata": {
-      "released": "Y0S1",
-      "reworked": "Y8S2",
-      "modernized": "Y10S3"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y8S2",
+          "type": "Rework"
+        },
+        {
+          "season": "Y10S3",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "BANK": {
     "name": "Bank",
     "location": "Los Angeles, California, USA",
     "metadata": {
-      "released": "Y0S1",
-      "reworked": "Y6S3",
-      "modernized": "Y10S2"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y6S3",
+          "type": "Rework"
+        },
+        {
+          "season": "Y10S2",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "KANAL": {
     "name": "Kanal",
     "location": "Hamburg, Germany",
     "metadata": {
-      "released": "Y0S1",
-      "reworked": "Y4S3"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y4S3",
+          "type": "Rework"
+        }
+      ]
     }
   },
   "CHALET": {
     "name": "Chalet",
     "location": "Courchevel, France",
     "metadata": {
-      "released": "Y0S1",
-      "reworked": "Y5S3",
-      "modernized": "Y10S2"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y5S3",
+          "type": "Rework"
+        },
+        {
+          "season": "Y10S2",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "KAFE": {
     "name": "Kafe Dostoyevsky",
     "location": "Moscow, Russia",
     "metadata": {
-      "released": "Y0S1",
-      "reworked": "Y4S2",
-      "modernized": "Y10S2"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y4S2",
+          "type": "Rework"
+        },
+        {
+          "season": "Y10S2",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "BARTLETT": {
@@ -90,144 +185,284 @@
     "location": "Cambridge, Massachusetts, USA",
     "metadata": {
       "disabled": true,
-      "released": "Y0S1",
-      "reworked": "Y1S4"
+      "updates": [
+        {
+          "season": "Y0S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y1S4",
+          "type": "Rework"
+        }
+      ]
     }
   },
   "YACHT": {
     "name": "Yacht",
     "location": "Baffin Bay, Canada",
     "metadata": {
-      "released": "Y1S1"
+      "updates": [
+        {
+          "season": "Y1S1",
+          "type": "Release"
+        }
+      ]
     }
   },
   "BORDER": {
     "name": "Border",
     "location": "Middle East",
     "metadata": {
-      "released": "Y1S2",
-      "reworked": "Y6S1",
-      "modernized": "Y10S2"
+      "updates": [
+        {
+          "season": "Y1S2",
+          "type": "Release"
+        },
+        {
+          "season": "Y6S1",
+          "type": "Rework"
+        },
+        {
+          "season": "Y10S2",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "FAVELA": {
     "name": "Favela",
     "location": "Rio de Janeiro, Brazil",
     "metadata": {
-      "released": "Y1S3",
-      "reworked": "Y6S2"
+      "updates": [
+        {
+          "season": "Y1S3",
+          "type": "Release"
+        },
+        {
+          "season": "Y6S2",
+          "type": "Rework"
+        }
+      ]
     }
   },
   "SKYSCRAPER": {
     "name": "Skyscraper",
     "location": "Nagoya, Japan",
     "metadata": {
-      "released": "Y1S4",
-      "reworked": "Y5S4",
-      "modernized": "Y10S4"
+      "updates": [
+        {
+          "season": "Y1S4",
+          "type": "Release"
+        },
+        {
+          "season": "Y5S4",
+          "type": "Rework"
+        },
+        {
+          "season": "Y10S4",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "COASTLINE": {
     "name": "Coastline",
     "location": "Ibiza, Spain",
     "metadata": {
-      "released": "Y2S1",
-      "reworked": "Y6S3",
-      "modernized": "Y11S1"
+      "updates": [
+        {
+          "season": "Y2S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y6S3",
+          "type": "Rework"
+        },
+        {
+          "season": "Y11S1",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "THEMEPARK": {
     "name": "Theme Park",
     "location": "Kowloon, Hong Kong",
     "metadata": {
-      "released": "Y2S3",
-      "reworked": "Y4S4",
-      "modernized": "Y10S4"
+      "updates": [
+        {
+          "season": "Y2S3",
+          "type": "Release"
+        },
+        {
+          "season": "Y4S4",
+          "type": "Rework"
+        },
+        {
+          "season": "Y10S4",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "TOWER": {
     "name": "Tower",
     "location": "Seoul, South Korea",
     "metadata": {
-      "released": "Y2S4"
+      "updates": [
+        {
+          "season": "Y2S4",
+          "type": "Release"
+        }
+      ]
     }
   },
   "VILLA": {
     "name": "Villa",
     "location": "Tuscany, Italy",
     "metadata": {
-      "released": "Y3S2",
-      "modernized": "Y11S1"
+      "updates": [
+        {
+          "season": "Y3S2",
+          "type": "Release"
+        },
+        {
+          "season": "Y11S1",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "FORTRESS": {
     "name": "Fortress",
     "location": "Atlas Mountains, Morocco",
     "metadata": {
-      "released": "Y3S4",
-      "reworked": "Y10S4",
-      "modernized": "Y10S4"
+      "updates": [
+        {
+          "season": "Y3S4",
+          "type": "Release"
+        },
+        {
+          "season": "Y10S4",
+          "type": "Rework & Modernization"
+        }
+      ]
     }
   },
   "OUTBACK": {
     "name": "Outback",
     "location": "Australia",
     "metadata": {
-      "released": "Y4S1",
-      "reworked": "Y6S4"
+      "updates": [
+        {
+          "season": "Y4S1",
+          "type": "Release"
+        },
+        {
+          "season": "Y6S4",
+          "type": "Rework"
+        }
+      ]
     }
   },
   "ALPHA": {
     "name": "Stadium 2020",
     "location": "Elis, Greece",
     "metadata": {
-      "released": "Y4S4",
-      "reworked": "Y9S2"
+      "updates": [
+        {
+          "season": "Y4S4",
+          "type": "Release"
+        },
+        {
+          "season": "Y9S2",
+          "type": "Rework"
+        }
+      ]
     }
   },
   "EMERALD": {
     "name": "Emerald Plains",
     "location": "Northern Ireland, UK",
     "metadata": {
-      "released": "Y7S1"
+      "updates": [
+        {
+          "season": "Y7S1",
+          "type": "Release"
+        }
+      ]
     }
   },
   "CLOSEQUARTER": {
     "name": "Close Quarter",
     "location": "Greece",
     "metadata": {
-      "released": "Y7S2"
+      "updates": [
+        {
+          "season": "Y7S2",
+          "type": "Release"
+        }
+      ]
     }
   },
   "BRAVO": {
     "name": "Stadium Bravo",
     "location": "Elis, Greece",
     "metadata": {
-      "released": "Y7S3",
-      "reworked": "Y9S2"
+      "updates": [
+        {
+          "season": "Y7S3",
+          "type": "Release"
+        },
+        {
+          "season": "Y9S2",
+          "type": "Rework"
+        }
+      ]
     }
   },
   "LABS": {
     "name": "Nighthaven Labs",
     "location": "Singapore",
     "metadata": {
-      "released": "Y7S4",
-      "modernized": "Y10S3"
+      "updates": [
+        {
+          "season": "Y7S4",
+          "type": "Release"
+        },
+        {
+          "season": "Y10S3",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "LAIR": {
     "name": "Lair",
     "location": "Portugal",
     "metadata": {
-      "released": "Y8S4",
-      "modernized": "Y10S3"
+      "updates": [
+        {
+          "season": "Y8S4",
+          "type": "Release"
+        },
+        {
+          "season": "Y10S3",
+          "type": "Modernization"
+        }
+      ]
     }
   },
   "DISTRICT": {
     "name": "District",
     "location": "Detroit, Michigan, USA",
     "metadata": {
-      "released": "Y10S2"
+      "updates": [
+        {
+          "season": "Y10S2",
+          "type": "Release"
+        }
+      ]
     }
   }
 }
