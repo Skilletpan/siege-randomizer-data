@@ -355,47 +355,6 @@
         }
       },
       {
-        "name": "Map Training",
-        "playlists": {
-          "LANDMARK": {
-            "name": "Landmark Drill"
-          },
-          "CLEAR_HOUSE": {
-            "name": "Clear House"
-          }
-        },
-        "settings": {
-          "levels": {
-            "enabled": [
-              "LAIR",
-              "CLUBHOUSE",
-              "BANK",
-              "CONSULATE",
-              "CHALET",
-              "KAFE",
-              "OREGON",
-              "LABS",
-              "SKYSCRAPER",
-              "BORDER",
-              "COASTLINE",
-              "KANAL",
-              "OUTBACK",
-              "VILLA",
-              "THEMEPARK",
-              "EMERALD",
-              "TOWER",
-              "BRAVO",
-              "FORTRESS",
-              "HOUSE",
-              "ALPHA",
-              "FAVELA",
-              "PLANE",
-              "YACHT"
-            ]
-          }
-        }
-      },
-      {
         "name": "AI Training",
         "playlists": {
           "ENLISTED": {
