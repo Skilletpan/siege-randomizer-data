@@ -209,7 +209,8 @@
         "primary": "Remote Gas Grenade",
         "secondary": [
           "BARBED",
-          "BEEPER"
+          "BEEPER",
+          "SHIELD"
         ]
       }
     },
@@ -1440,7 +1441,8 @@
         "primary": "Eyenox Model III",
         "secondary": [
           "CLAYMORE",
-          "SMOKE"
+          "SMOKE",
+          "FRAG"
         ]
       }
     },
