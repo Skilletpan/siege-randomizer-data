@@ -229,5 +229,12 @@
     "metadata": {
       "released": "Y10S2"
     }
+  },
+  "CALYPSO": {
+    "name": "Calypso",
+    "location": "Las Vegas, Nevada, USA",
+    "metadata": {
+      "released": "Y11S2"
+    }
   }
 }
