@@ -64,7 +64,8 @@
     "location": "Hamburg, Germany",
     "metadata": {
       "released": "Y0S1",
-      "reworked": "Y4S3"
+      "reworked": "Y4S3",
+      "modernized": "Y11S2"
     }
   },
   "CHALET": {
@@ -174,7 +175,8 @@
     "location": "Australia",
     "metadata": {
       "released": "Y4S1",
-      "reworked": "Y6S4"
+      "reworked": "Y6S4",
+      "modernized": "Y11S2"
     }
   },
   "ALPHA": {
@@ -189,7 +191,8 @@
     "name": "Emerald Plains",
     "location": "Northern Ireland, UK",
     "metadata": {
-      "released": "Y7S1"
+      "released": "Y7S1",
+      "modernized": "Y11S2"
     }
   },
   "CLOSEQUARTER": {
