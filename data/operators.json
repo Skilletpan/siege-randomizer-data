@@ -1710,6 +1710,7 @@
     "loadout": {
       "weapons": {
         "primary": [
+          "AR.XK23",
           "DMR.MK14",
           "SSG.BOSG"
         ],
@@ -1743,7 +1744,8 @@
       }
     },
     "metadata": {
-      "released": "Y2S4"
+      "released": "Y2S4",
+      "reworked": "Y11S2"
     }
   },
   "VIGIL": {
