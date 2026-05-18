@@ -1659,7 +1659,7 @@
         "Breach",
         "Anti-Gadget"
       ],
-      "speed": 1
+      "speed": 2
     },
     "loadout": {
       "weapons": {
@@ -3086,6 +3086,7 @@
       "weapons": {
         "primary": [
           "AR.POF",
+          "AR.XK23",
           "DMR.417"
         ],
         "secondary": [
@@ -3501,6 +3502,7 @@
     "loadout": {
       "weapons": {
         "primary": [
+          "AR.XK23",
           "DMR.417",
           "LMG.M249"
         ],
