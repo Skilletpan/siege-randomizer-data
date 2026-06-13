@@ -1724,8 +1724,7 @@
         "primary": "Jegeo Payload",
         "secondary": [
           "SMOKE",
-          "EMP",
-          "STUN"
+          "EMP"
         ]
       }
     },
