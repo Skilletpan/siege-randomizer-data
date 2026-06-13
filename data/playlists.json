@@ -13,37 +13,21 @@
               "CHALET",
               "KAFE",
               "BORDER",
+              "FORTRESS",
               "CONSULATE",
               "LABS",
-              "LAIR",
-              "FORTRESS"
+              "LAIR"
             ]
+          },
+          "operators": {
+            "bans": true
           }
         }
-      },
-      "SIEGE_CUP": {
-        "name": "Siege Cup",
-        "settings": {
-          "disabled": true,
-          "levels": {
-            "enabled": [
-              "THEMEPARK",
-              "BANK",
-              "VILLA",
-              "COASTLINE"
-            ]
-          }
-        }
-      }
-    },
-    "settings": {
-      "operators": {
-        "bans": true
       }
     }
   },
   {
-    "name": "Tactical",
+    "name": "Essentials",
     "playlists": {
       "RANKED": {
         "name": "Ranked",
@@ -51,7 +35,7 @@
           "levels": {
             "bans": true,
             "enabled": [
-              "EMERALD",
+              "CALYPSO",
               "OREGON",
               "CLUBHOUSE",
               "CONSULATE",
@@ -60,11 +44,15 @@
               "KAFE",
               "BORDER",
               "COASTLINE",
-              "VILLA",
               "FORTRESS",
+              "OUTBACK",
+              "EMERALD",
               "LABS",
               "LAIR"
             ]
+          },
+          "operators": {
+            "bans": true
           }
         }
       },
@@ -73,6 +61,7 @@
         "settings": {
           "levels": {
             "enabled": [
+              "CALYPSO",
               "HOUSE",
               "OREGON",
               "CLUBHOUSE",
@@ -98,24 +87,18 @@
               "LAIR",
               "ALPHA"
             ]
+          },
+          "operators": {
+            "bans": true
           }
         }
-      }
-    },
-    "settings": {
-      "operators": {
-        "bans": true
-      }
-    }
-  },
-  {
-    "name": "Quickplay",
-    "playlists": {
+      },
       "QUICKMATCH": {
         "name": "Quick Match",
         "settings": {
           "levels": {
             "enabled": [
+              "CALYPSO",
               "HOUSE",
               "OREGON",
               "CLUBHOUSE",
@@ -143,182 +126,14 @@
             ]
           }
         }
-      },
-      "DUAL_FRONT": {
-        "name": "Dual Front",
-        "settings": {
-          "levels": {
-            "enabled": [
-              "DISTRICT"
-            ]
-          },
-          "operators": {
-            "mixed": true,
-            "enabled": [
-              "STRIKER",
-              "SENTRY",
-              "SLEDGE",
-              "THATCHER",
-              "SMOKE",
-              "MUTE",
-              "ASH",
-              "THERMITE",
-              "CASTLE",
-              "PULSE",
-              "TWITCH",
-              "MONTAGNE",
-              "DOC",
-              "GLAZ",
-              "FUZE",
-              "KAPKAN",
-              "TACHANKA",
-              "BLITZ",
-              "IQ",
-              "JAGER",
-              "BANDIT",
-              "BUCK",
-              "FROST",
-              "BLACKBEARD",
-              "VALKYRIE",
-              "CAPITAO",
-              "HIBANA",
-              "ECHO",
-              "MIRA",
-              "YING",
-              "LESION",
-              "ELA",
-              "ZOFIA",
-              "VIGIL",
-              "MAESTRO",
-              "ALIBI",
-              "MAVERICK",
-              "CLASH",
-              "NOMAD",
-              "KAID",
-              "NOKK",
-              "WARDEN",
-              "AMARU",
-              "GOYO",
-              "KALI",
-              "WAMAI",
-              "IANA",
-              "ORYX",
-              "ACE",
-              "MELUSI",
-              "ZERO",
-              "ARUNI",
-              "FLORES",
-              "THUNDERBIRD",
-              "OSA",
-              "THORN",
-              "AZAMI",
-              "SENS",
-              "GRIM",
-              "SOLIS",
-              "RAM",
-              "RAUORA",
-              "DENARI"
-            ]
-          }
-        }
       }
-    },
-    "subcategories": [
-      {
-        "name": "Arcade",
-        "playlists": {
-          "GOLDENGUN": {
-            "name": "Golden Gun",
-            "settings": {
-              "levels": {
-                "enabled": [
-                  "CLOSEQUARTER",
-                  "BRAVO",
-                  "FAVELA",
-                  "EMERALD",
-                  "SKYSCRAPER",
-                  "LAIR",
-                  "ALPHA",
-                  "COASTLINE",
-                  "OUTBACK"
-                ]
-              }
-            }
-          },
-          "ROULETTE": {
-            "name": "Weapon Roulette",
-            "settings": {
-              "levels": {
-                "enabled": [
-                  "CLOSEQUARTER",
-                  "COASTLINE",
-                  "FAVELA",
-                  "LABS",
-                  "THEMEPARK",
-                  "LAIR",
-                  "ALPHA",
-                  "BRAVO",
-                  "OUTBACK"
-                ]
-              }
-            }
-          },
-          "SNIPERS": {
-            "name": "Snipers Only",
-            "settings": {
-              "levels": {
-                "enabled": [
-                  "HEREFORD"
-                ]
-              }
-            }
-          },
-          "HEADSHOTS": {
-            "name": "Headshots Only",
-            "settings": {
-              "levels": {
-                "enabled": [
-                  "COASTLINE",
-                  "THEMEPARK",
-                  "VILLA",
-                  "CLOSEQUARTER",
-                  "LABS"
-                ]
-              },
-              "operators": {
-                "disabled": [
-                  "MONTAGNE",
-                  "BLITZ",
-                  "BLACKBEARD",
-                  "CLASH"
-                ]
-              }
-            }
-          }
-        },
-        "settings": {
-          "disabled": true,
-          "operators": {
-            "duplicates": true,
-            "mixed": true
-          }
-        }
-      }
-    ]
+    }
   },
   {
     "name": "Training",
-    "subcategories": [
-      {
+    "playlists": {
+      "DEATHMATCH": {
         "name": "Deathmatch",
-        "playlists": {
-          "F4A": {
-            "name": "Free for All"
-          },
-          "TDM": {
-            "name": "Team Deathmatch"
-          }
-        },
         "settings": {
           "levels": {
             "enabled": [
@@ -339,7 +154,8 @@
               "EMERALD",
               "LABS",
               "CLOSEQUARTER",
-              "LAIR"
+              "LAIR",
+              "CALYPSO"
             ]
           },
           "operators": {
@@ -354,19 +170,12 @@
           }
         }
       },
-      {
-        "name": "Map Training",
-        "playlists": {
-          "LANDMARK": {
-            "name": "Landmark Drill"
-          },
-          "CLEAR_HOUSE": {
-            "name": "Clear House"
-          }
-        },
+      "CLEAR_HOUSE": {
+        "name": "Clear House",
         "settings": {
           "levels": {
             "enabled": [
+              "CALYPSO",
               "LAIR",
               "CLUBHOUSE",
               "BANK",
@@ -395,105 +204,42 @@
           }
         }
       },
-      {
-        "name": "AI Training",
-        "playlists": {
-          "ENLISTED": {
-            "name": "Enlisted",
-            "settings": {
-              "disabled": true
-            }
+      "FIELD_TRAINING": {
+        "name": "Field Training",
+        "settings": {
+          "levels": {
+            "enabled": [
+              "OREGON",
+              "CLUBHOUSE",
+              "CONSULATE",
+              "BANK",
+              "KANAL",
+              "CHALET",
+              "KAFE",
+              "BORDER",
+              "SKYSCRAPER",
+              "COASTLINE",
+              "THEMEPARK",
+              "FORTRESS",
+              "OUTBACK",
+              "LABS",
+              "LAIR"
+            ]
           },
-          "FIELD": {
-            "name": "Field Training",
-            "settings": {
-              "levels": {
-                "enabled": [
-                  "OREGON",
-                  "CLUBHOUSE",
-                  "CONSULATE",
-                  "BANK",
-                  "CHALET",
-                  "KAFE",
-                  "BORDER",
-                  "COASTLINE",
-                  "LABS",
-                  "LAIR"
-                ]
-              },
-              "operators": {
-                "enabled": [
-                  "STRIKER",
-                  "SENTRY",
-                  "SLEDGE",
-                  "THATCHER",
-                  "SMOKE",
-                  "MUTE",
-                  "ASH",
-                  "THERMITE",
-                  "CASTLE",
-                  "PULSE",
-                  "TWITCH",
-                  "MONTAGNE",
-                  "DOC",
-                  "ROOK",
-                  "GLAZ",
-                  "FUZE",
-                  "KAPKAN",
-                  "TACHANKA",
-                  "BLITZ",
-                  "IQ",
-                  "JAGER",
-                  "BANDIT",
-                  "BUCK",
-                  "FROST",
-                  "BLACKBEARD",
-                  "VALKYRIE",
-                  "CAPITAO",
-                  "HIBANA",
-                  "JACKAL",
-                  "YING",
-                  "LESION",
-                  "ELA",
-                  "ZOFIA",
-                  "DOKKAEBI",
-                  "VIGIL",
-                  "LION",
-                  "FINKA",
-                  "ALIBI",
-                  "MAVERICK",
-                  "CLASH",
-                  "NOMAD",
-                  "KAID",
-                  "GRIDLOCK",
-                  "NOKK",
-                  "WARDEN",
-                  "AMARU",
-                  "GOYO",
-                  "KALI",
-                  "WAMAI",
-                  "IANA",
-                  "ORYX",
-                  "ACE",
-                  "MELUSI",
-                  "ZERO",
-                  "FLORES",
-                  "THUNDERBIRD",
-                  "THORN",
-                  "SENS",
-                  "GRIM",
-                  "SOLIS",
-                  "DEIMOS",
-                  "SKOPOS",
-                  "RAUORA",
-                  "DENARI",
-                  "SNAKE"
-                ]
-              }
-            }
+          "operators": {
+            "disabled": [
+              "MIRA",
+              "MAESTRO",
+              "MOZZIE",
+              "ARUNI",
+              "OSA",
+              "BRAVA",
+              "RAM",
+              "TUBARAO"
+            ]
           }
         }
       }
-    ]
+    }
   }
 ]

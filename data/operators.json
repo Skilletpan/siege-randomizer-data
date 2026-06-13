@@ -1659,7 +1659,7 @@
         "Breach",
         "Anti-Gadget"
       ],
-      "speed": 1
+      "speed": 2
     },
     "loadout": {
       "weapons": {
@@ -1703,13 +1703,14 @@
       "side": "ATT",
       "specialties": [
         "Intel",
-        "Map Control"
+        "Front-Line"
       ],
       "speed": 3
     },
     "loadout": {
       "weapons": {
         "primary": [
+          "AR.XK23",
           "DMR.MK14",
           "SSG.BOSG"
         ],
@@ -1720,11 +1721,10 @@
         ]
       },
       "gadgets": {
-        "primary": "Logic Bomb",
+        "primary": "Jegeo Payload",
         "secondary": [
           "SMOKE",
-          "EMP",
-          "STUN"
+          "EMP"
         ]
       }
     },
@@ -1743,7 +1743,8 @@
       }
     },
     "metadata": {
-      "released": "Y2S4"
+      "released": "Y2S4",
+      "reworked": "Y11S2"
     }
   },
   "VIGIL": {
@@ -3084,6 +3085,7 @@
       "weapons": {
         "primary": [
           "AR.POF",
+          "AR.XK23",
           "DMR.417"
         ],
         "secondary": [
@@ -3499,6 +3501,7 @@
     "loadout": {
       "weapons": {
         "primary": [
+          "AR.XK23",
           "DMR.417",
           "LMG.M249"
         ],
